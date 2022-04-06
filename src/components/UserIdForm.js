@@ -1,6 +1,6 @@
 import './App.css';
 
-function App() {
+function UserIdForm() {
   return (
     <div className='App'>
       <form className='form-user-id'>
@@ -14,4 +14,4 @@ function App() {
   );
 }
 
-export default App;
+export default UserIdForm;
