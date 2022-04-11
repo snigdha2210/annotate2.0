@@ -20,7 +20,7 @@ function UserIdForm(props) {
     // console.log('navigating', userId);
     // debugger;
 
-    navigate('/annotate', { state: userId });
+    navigate(`/annotate/${userId}`, { state: userId });
 
     // BrowserRouter.push({
     //   //browserHistory.push should also work here

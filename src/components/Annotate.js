@@ -7,6 +7,7 @@ import { Col, Dropdown, DropdownMenu, DropdownToggle, Row } from 'reactstrap';
 
 import volumeUp from './common/images/volume-up.svg';
 import videosJSON from '../videos/VideoData.json';
+import videoModes from '../videos/userIdVideoModes.json';
 
 function Annotate(props) {
   const [state, setState] = useState({
@@ -30,9 +31,22 @@ function Annotate(props) {
   });
 
   useEffect(() => {
+    const url = window.location.href;
+    const urlArr = url.split('/');
+    const userIdFromUrl = urlArr[4];
+    let i = 0;
+    let mode = [];
+    for (i = 0; i < videoModes.length; i++) {
+      if (videoModes[i].UserId.toString() === userIdFromUrl) {
+        mode = videoModes[i].videoOrder;
+      }
+    }
+
     setState({
       ...state,
       videos: videosJSON,
+      userId: userIdFromUrl,
+      videoMode: mode,
     });
   }, []);
 

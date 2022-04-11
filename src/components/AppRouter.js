@@ -10,7 +10,7 @@ const AppRouter = () => (
       <Header />
       <Routes>
         <Route element={<UserIdForm />} path='/' exact />
-        <Route element={<Annotate />} path='/annotate' exact />
+        <Route element={<Annotate />} path='/annotate/:id' />
       </Routes>
     </div>
   </BrowserRouter>
