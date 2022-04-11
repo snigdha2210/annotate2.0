@@ -9,12 +9,16 @@ function UserIdForm(props) {
 
   const handleOnChange = (e) => {
     setUserId(e.target.value);
+    console.log(e.target.value);
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
 
     // <Navigate to={{ pathname: '/annotate', data: { userId } }} />;
+
+    // console.log('navigating', userId);
+    // debugger;
 
     navigate('/annotate', { state: userId });
 
@@ -27,12 +31,12 @@ function UserIdForm(props) {
 
   return (
     <div className='App'>
-      <form className='form-user-id'>
+      <form className='form-user-id' onSubmit={handleSubmit}>
         <label>
           Enter User Id:
           <input type='text' name='userId' onChange={handleOnChange} />
         </label>
-        <input type='submit' value='Submit' onSubmit={handleSubmit} />
+        <input type='submit' value='Submit' />
       </form>
     </div>
   );
