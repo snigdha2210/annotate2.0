@@ -45,6 +45,10 @@ function Annotate(props) {
     userId: '',
   });
 
+  const [arousal, setArousal] = useState(0);
+  const [valence, setValence] = useState(0);
+  const [showForm, setShowForm] = useState(0);
+
   useEffect(() => {
     const url = window.location.href;
     const urlArr = url.split('/');
@@ -93,6 +97,7 @@ function Annotate(props) {
 
   const handlePlayPause = () => {
     setState({ ...state, playing: !state.playing });
+    console.log('-------THE VIDEO IS PLAYED/PAUSED------');
   };
 
   const handleStop = () => {
@@ -203,17 +208,29 @@ function Annotate(props) {
     setState({ ...state, dropdownOpen: !state.dropdownOpen });
   };
 
+  const createAnnotation = (e) => {
+    e.preventDefault();
+    //push into json file
+  };
+
+  const handleValenceOnChange = (e) => {
+    console.log(e.target.value);
+    setValence(e.target.value);
+  };
+  const handleArousalOnChange = (e) => {
+    console.log(e.target.value);
+    setArousal(e.target.value);
+  };
+
+  useEffect(() => {
+    console.log('paused/played', state.playing);
+  }, [state.playing]);
+
   return (
     <div className='App'>
       <Row className='justify-content-center h-100 align-items-center'>
         <Col xs='7' className='h-50'>
           <div className='player-wrapper h-100 d-flex justify-content-center'>
-            {console.log(state.index, state.videoOrder[state.index])}
-            {console.log(
-              localVideos[state.videoOrder[state.index]],
-              'local videos'
-            )}
-
             {/* <video width='320' height='240' controls onEnded={handleEnded}>
               <source
                 src={localVideos[state.videoOrder[state.index]]}
@@ -225,7 +242,6 @@ function Annotate(props) {
               className='react-player'
               url={localVideos[state.videoOrder[state.index]]}
               onEnded={handleEnded}
-              playing
               controls
             />
 
@@ -315,6 +331,33 @@ function Annotate(props) {
               </Row>
             )}
           </div>
+        </Col>
+        <Col
+          xs='4'
+          className='form-annotate'
+          style={{ display: !state.playing ? 'block' : 'none' }}
+        >
+          <form>
+            <label>
+              Valence:
+              <input
+                type='text'
+                name='valence'
+                value={valence}
+                onChange={handleValenceOnChange}
+              />
+            </label>
+            <label>
+              Arousal:
+              <input
+                type='text'
+                name='arousal'
+                value={arousal}
+                onChange={handleArousalOnChange}
+              />
+            </label>
+            <input type='submit' value='Submit' onClick={createAnnotation} />
+          </form>
         </Col>
       </Row>
     </div>
