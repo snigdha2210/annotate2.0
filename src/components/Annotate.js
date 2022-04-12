@@ -9,6 +9,8 @@ import volumeUp from './common/images/volume-up.svg';
 import videosJSON from '../videos/VideoData.json';
 import videoModes from '../videos/userIdVideoModes.json';
 
+import { CSVLink } from 'react-csv';
+
 import vid0 from '../videos/videoMP4s/0.mp4';
 import vid1 from '../videos/videoMP4s/1.mp4';
 import vid2 from '../videos/videoMP4s/2.mp4';
@@ -250,6 +252,21 @@ function Annotate(props) {
     console.log('paused/played', state.playing);
   }, [state.playing]);
 
+  const exportCsv = () => {
+    const headers = [
+      { label: 'User Id', key: 'userId' },
+      { label: 'Video Id', key: 'videoId' },
+      { label: 'Valence', key: 'valence' },
+      { label: 'Arousal', key: 'arousal' },
+    ];
+
+    const csvReport = {
+      data: annotation,
+      headers: headers,
+      filename: 'test_report.csv',
+    };
+  };
+
   return (
     <div className='App'>
       <Row className='justify-content-center h-100 align-items-center'>
@@ -267,6 +284,8 @@ function Annotate(props) {
               url={localVideos[state.videoOrder[state.index]]}
               onEnded={handleEnded}
               controls
+              onPause={handlePlayPause}
+              onPlay={handlePlayPause}
             />
 
             {state.visible_button_refresh && (
@@ -274,7 +293,7 @@ function Annotate(props) {
                 <div className=' pl-1 d-flex align-items-center '>
                   <button
                     type='button'
-                    onClick={() => handlePlayPause()}
+                    onClick={(e) => handlePlayPause(e)}
                     className='play-pause pr-2'
                   >
                     {state.playing ? 'Pause' : 'Play'}
@@ -359,7 +378,7 @@ function Annotate(props) {
         <Col
           xs='4'
           className='form-annotate'
-          style={{ display: !state.playing ? 'block' : 'none' }}
+          style={{ display: state.playing ? 'block' : 'none' }}
         >
           <form onSubmit={createAnnotation}>
             <label>
@@ -382,6 +401,8 @@ function Annotate(props) {
             </label>
             <input type='submit' value='Submit' />
           </form>
+
+          {/* <CSVLink {...exportCsv}>Export to CSV</CSVLink> */}
         </Col>
       </Row>
     </div>
