@@ -9,6 +9,18 @@ import volumeUp from './common/images/volume-up.svg';
 import videosJSON from '../videos/VideoData.json';
 import videoModes from '../videos/userIdVideoModes.json';
 
+import vid0 from '../videos/videoMP4s/0.mp4';
+import vid1 from '../videos/videoMP4s/1.mp4';
+import vid2 from '../videos/videoMP4s/2.mp4';
+import vid3 from '../videos/videoMP4s/3.mp4';
+import vid4 from '../videos/videoMP4s/4.mp4';
+import vid5 from '../videos/videoMP4s/5.mp4';
+import vid6 from '../videos/videoMP4s/6.mkv';
+import vid7 from '../videos/videoMP4s/7.mp4';
+import vid8 from '../videos/videoMP4s/8.mp4';
+
+const localVideos = [vid0, vid1, vid2, vid3, vid4, vid5, vid6, vid7, vid8];
+
 function Annotate(props) {
   const [state, setState] = useState({
     url: null,
@@ -28,6 +40,9 @@ function Annotate(props) {
     fullscreen: false,
     index: 0,
     videos: [],
+    videoMode: [],
+    videoOrder: [],
+    userId: '',
   });
 
   useEffect(() => {
@@ -42,11 +57,21 @@ function Annotate(props) {
       }
     }
 
+    let j = 0;
+    let finalVideoOrder = [];
+    for (i = 0, j = 0; i < mode.length; i++) {
+      finalVideoOrder[j] = mode[i];
+      j++;
+      finalVideoOrder[j] = 0;
+      j++;
+    }
+
     setState({
       ...state,
       videos: videosJSON,
       userId: userIdFromUrl,
       videoMode: mode,
+      videoOrder: finalVideoOrder,
     });
   }, []);
 
@@ -183,13 +208,27 @@ function Annotate(props) {
       <Row className='justify-content-center h-100 align-items-center'>
         <Col xs='7' className='h-50'>
           <div className='player-wrapper h-100 d-flex justify-content-center'>
-            {console.log('loaded', videosJSON[state.index].url, props.userId)}
+            {console.log(state.index, state.videoOrder[state.index])}
+            {console.log(
+              localVideos[state.videoOrder[state.index]],
+              'local videos'
+            )}
+
+            {/* <video width='320' height='240' controls onEnded={handleEnded}>
+              <source
+                src={localVideos[state.videoOrder[state.index]]}
+                type='video/mp4'
+              />
+            </video> */}
+
             <ReactPlayer
               className='react-player'
-              url={videosJSON[state.index].url}
+              url={localVideos[state.videoOrder[state.index]]}
               onEnded={handleEnded}
               playing
+              controls
             />
+
             {state.visible_button_refresh && (
               <Row className='video-controller justify-content-between'>
                 <div className=' pl-1 d-flex align-items-center '>
