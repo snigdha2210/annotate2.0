@@ -47,7 +47,7 @@ function Annotate(props) {
 
   const [arousal, setArousal] = useState(0);
   const [valence, setValence] = useState(0);
-  const [showForm, setShowForm] = useState(0);
+  const [annotation, setAnnotation] = useState([]);
 
   useEffect(() => {
     const url = window.location.href;
@@ -211,14 +211,38 @@ function Annotate(props) {
   const createAnnotation = (e) => {
     e.preventDefault();
     //push into json file
+
+    if (annotation === []) {
+      setAnnotation([
+        {
+          userId: state.userId,
+          videoId: state.videoOrder[state.index].toString(),
+          valence: valence,
+          arousal: arousal,
+        },
+      ]);
+    } else {
+      const newAnnotation = [
+        ...annotation,
+        {
+          userId: state.userId,
+          videoId: state.videoOrder[state.index].toString(),
+          valence: valence,
+          arousal: arousal,
+        },
+      ];
+      console.log(arousal, valence);
+
+      setAnnotation(newAnnotation);
+    }
+
+    console.log(annotation);
   };
 
   const handleValenceOnChange = (e) => {
-    console.log(e.target.value);
     setValence(e.target.value);
   };
   const handleArousalOnChange = (e) => {
-    console.log(e.target.value);
     setArousal(e.target.value);
   };
 
@@ -337,7 +361,7 @@ function Annotate(props) {
           className='form-annotate'
           style={{ display: !state.playing ? 'block' : 'none' }}
         >
-          <form>
+          <form onSubmit={createAnnotation}>
             <label>
               Valence:
               <input
@@ -356,7 +380,7 @@ function Annotate(props) {
                 onChange={handleArousalOnChange}
               />
             </label>
-            <input type='submit' value='Submit' onClick={createAnnotation} />
+            <input type='submit' value='Submit' />
           </form>
         </Col>
       </Row>
