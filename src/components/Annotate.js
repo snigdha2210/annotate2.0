@@ -194,7 +194,9 @@ function Annotate(props) {
 
   const handleEnded = () => {
     console.log('onEnded');
-    setState({ ...state, index: _setIndex() });
+    console.log('playing', state.playing);
+    setState({ ...state, index: _setIndex(), playing: true });
+    console.log('playing', state.playing);
   };
 
   const handleDuration = (duration) => {
@@ -284,8 +286,9 @@ function Annotate(props) {
               url={localVideos[state.videoOrder[state.index]]}
               onEnded={handleEnded}
               controls
-              onPause={handlePlayPause}
-              onPlay={handlePlayPause}
+              onPause={handlePause}
+              onPlay={handlePlay}
+              playing={state.playing}
             />
 
             {state.visible_button_refresh && (
@@ -378,7 +381,7 @@ function Annotate(props) {
         <Col
           xs='4'
           className='form-annotate'
-          style={{ display: state.playing ? 'block' : 'none' }}
+          style={{ display: state.playing ? 'none' : 'block' }}
         >
           <form onSubmit={createAnnotation}>
             <label>
