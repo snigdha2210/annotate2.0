@@ -50,6 +50,8 @@ function Annotate(props) {
   const [arousal, setArousal] = useState(0);
   const [valence, setValence] = useState(0);
   const [annotation, setAnnotation] = useState([]);
+  const [pauseTime, setPauseTime] = useState();
+  const [startTime, setStartTime] = useState();
 
   useEffect(() => {
     const url = window.location.href;
@@ -149,8 +151,17 @@ function Annotate(props) {
 
   const handlePlay = () => {
     console.log('onPlay');
+
+    const unixTimestamp = Date.now();
+
+    // const milliseconds = unixTimestamp * 1000;
+    // const dateObject = new Date(milliseconds);
+    // dateObject.toLocaleString('en-US', { timeZoneName: 'short' });
+
+    console.log('PLAY TIMESTAMP-----', unixTimestamp);
     if (!state.playing) {
       setState({ ...state, playing: true });
+      setStartTime(unixTimestamp);
     }
   };
 
@@ -166,7 +177,12 @@ function Annotate(props) {
 
   const handlePause = () => {
     console.log('onPause');
+
+    const unixTimestamp = Date.now();
+
+    console.log('PAUSE TIMESTAMP-----', unixTimestamp);
     setState({ ...state, playing: false });
+    setPauseTime(unixTimestamp);
   };
 
   const handleSeekMouseDown = (e) => {
@@ -221,6 +237,8 @@ function Annotate(props) {
         {
           userId: state.userId,
           videoId: state.videoOrder[state.index].toString(),
+          startTime: startTime,
+          pauseTime: pauseTime,
           valence: valence,
           arousal: arousal,
         },
@@ -231,6 +249,8 @@ function Annotate(props) {
         {
           userId: state.userId,
           videoId: state.videoOrder[state.index].toString(),
+          startTime: startTime,
+          pauseTime: pauseTime,
           valence: valence,
           arousal: arousal,
         },
@@ -250,14 +270,12 @@ function Annotate(props) {
     setArousal(e.target.value);
   };
 
-  useEffect(() => {
-    console.log('paused/played', state.playing);
-  }, [state.playing]);
-
   const exportCsv = () => {
     const headers = [
       { label: 'User Id', key: 'userId' },
       { label: 'Video Id', key: 'videoId' },
+      { label: 'Start Time', key: 'startTime' },
+      { label: 'Pause Time', key: 'pauseTime' },
       { label: 'Valence', key: 'valence' },
       { label: 'Arousal', key: 'arousal' },
     ];
