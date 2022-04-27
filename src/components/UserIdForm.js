@@ -1,10 +1,11 @@
 import { useState } from 'react';
 import './App.css';
-import { BrowserRouter, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 function UserIdForm(props) {
   const navigate = useNavigate();
 
+  //state variable to store user Id from subject
   const [userId, setUserId] = useState('');
 
   const handleOnChange = (e) => {
@@ -13,20 +14,11 @@ function UserIdForm(props) {
   };
 
   const handleSubmit = (e) => {
+    //prevent reloading of app on submit
     e.preventDefault();
 
-    // <Navigate to={{ pathname: '/annotate', data: { userId } }} />;
-
-    // console.log('navigating', userId);
-    // debugger;
-
-    navigate(`/annotate/${userId}`, { state: userId });
-
-    // BrowserRouter.push({
-    //   //browserHistory.push should also work here
-    //   pathname: '/annotate',
-    //   state: { userId: userId },
-    // });
+    //navigate to Annotate component
+    navigate(`/annotate/${userId}`, { state: userId }); //
   };
 
   return (
