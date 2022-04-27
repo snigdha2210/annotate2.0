@@ -411,8 +411,9 @@ function Annotate(props) {
                 onChange={handleValenceOnChange}
               />
             </label>
+
             <label>
-              Arousal:
+              &nbsp; Arousal:
               <input
                 type='text'
                 name='arousal'
