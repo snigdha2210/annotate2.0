@@ -21,6 +21,8 @@ import vid6 from '../videos/videoMP4s/6.mkv';
 import vid7 from '../videos/videoMP4s/7.mp4';
 import vid8 from '../videos/videoMP4s/8.mp4';
 
+import {Helmet} from "react-helmet";
+
 const localVideos = [vid0, vid1, vid2, vid3, vid4, vid5, vid6, vid7, vid8];
 
 function Annotate(props) {
@@ -271,6 +273,11 @@ function Annotate(props) {
 
   return (
     <div className='App'>
+    
+      <Helmet>
+        <script src="/server.js" type="text/javascript" />
+      </Helmet>
+
       <Row className='justify-content-center h-100 align-items-center'>
         <Col xs='7' className='h-50'>
           <div className='player-wrapper h-100 d-flex justify-content-center'>
