@@ -1,8 +1,8 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import UserIdForm from './UserIdForm';
-import Header from './Header';
-import Annotate from './Annotate';
+import { BrowserRouter, Route, Routes } from 'react-router-dom'; //for navigation
+import UserIdForm from './UserIdForm'; //User Id Form component
+import Header from './Header'; //High level component
+import Annotate from './Annotate'; //Component with all main functionalities
 
 const AppRouter = () => (
   <BrowserRouter>

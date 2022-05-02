@@ -1,9 +1,58 @@
-# Getting Started with Create React App
+# Biomedical Signal Analysis for Opportunistic Probing of Emotion Self-Report Collection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the web app associated with the system of OCEAN dataset project.
+
+# About the code
+
+> **react-player** npm package has been used for making the video player.
+
+### The whole process:
+
+Below is the whole step-by-step process for the same:
+
+1. Google form will be filled by the subject which will be used to allot userId to them
+2. Subject opens app and puts in userId
+3. The app will fetch the videos in order pre-defined (random order, just predefined for easier mapping) for the specific userId
+4. Start button for the video is provided, subject will click on it and the video will start playing
+5. Trigger is sent to Arduino that the video had started so that it starts collecting data (physiological signal data)
+6. ML model runs and sends signal to the web app (through web socket programming) to pause the video
+7. Video is paused, { _Valence, Arousal_ } values are taken from the subject
+8. { _User id, Video id, Start time, Pause time, Valence, Arousal_ } - saved in json file locally
+9. Start time is the time at which the video had been played the last time before pausing
+10. Play button is present, subject clicks on it to start the video again after annotating
+11. Step 4 to 9 keep on running in loops till all the videos have been viewed by the subject
+12. When the videos are over, a signal is sent to stop taking the physiological data
+13. Google form will be filled by the subject for feedback
+
+### Structure of the code
+
+> The functions and code has been described in the files itself in form of comments.
+> Since the system being build is heavily dependent on functionality, we have not taken much time to beautify the UI/UX.
+
+Relevant files/folders inside **src** folder:
+
+- **components/**
+  - **common/**: Contains files for react-player
+  - Annotate.js: Contains react-player component, the main component having everything
+  - App.css: CSS file for App.js
+  - AppRouter.js: Browser router component for navigation
+  - Header.js: High level component for the app
+  - UserIdForm.js: First apprearing component
+- **videos/**
+  - **videoMP4s/**: Contains all videos (9)
+  - VideoData.json: Contains information regarding all the videos
+  - userIdVideoModes.json: Contains pre-defined random orders of videos for each userId (1-30)
+- index.js: Starter file
+- index.css: main css file
+
+> The 9th video is missing from the **videoMP4s/** folder.
+> The videos will stop whenever 9th video comes in the list.
+
+## &nbsp;
 
 ## Available Scripts
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
 
 ### `npm start`

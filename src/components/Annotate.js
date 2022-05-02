@@ -9,8 +9,6 @@ import volumeUp from './common/images/volume-up.svg';
 import videosJSON from '../videos/VideoData.json';
 import videoModes from '../videos/userIdVideoModes.json';
 
-import { CSVLink } from 'react-csv';
-
 import vid0 from '../videos/videoMP4s/0.mp4';
 import vid1 from '../videos/videoMP4s/1.mp4';
 import vid2 from '../videos/videoMP4s/2.mp4';
@@ -49,16 +47,24 @@ function Annotate(props) {
     userId: '',
   });
 
+  //all state variables for data to be stored
   const [arousal, setArousal] = useState(0);
   const [valence, setValence] = useState(0);
   const [annotation, setAnnotation] = useState([]);
+  const [pauseTime, setPauseTime] = useState();
+  const [startTime, setStartTime] = useState();
 
   useEffect(() => {
+    //to get the User Id from href
     const url = window.location.href;
     const urlArr = url.split('/');
     const userIdFromUrl = urlArr[4];
+
     let i = 0;
+
+    //empty array to store the video mode order
     let mode = [];
+    //loop to fetch the video mode associated with the User Id from userIdVideoModes.json
     for (i = 0; i < videoModes.length; i++) {
       if (videoModes[i].UserId.toString() === userIdFromUrl) {
         mode = videoModes[i].videoOrder;
@@ -66,7 +72,11 @@ function Annotate(props) {
     }
 
     let j = 0;
+
+    //empty array to store the final video mode order
     let finalVideoOrder = [];
+
+    //loop to add blue screen video after every video in the final video mode order
     for (i = 0, j = 0; i < mode.length; i++) {
       finalVideoOrder[j] = mode[i];
       j++;
@@ -74,6 +84,7 @@ function Annotate(props) {
       j++;
     }
 
+    //setting state with all the fetched and finalised data
     setState({
       ...state,
       videos: videosJSON,
@@ -84,6 +95,7 @@ function Annotate(props) {
   }, []);
 
   const _setIndex = () => {
+    //change the index of the video array after the previous video has ended
     return state.index === state.videos.length - 1 ? 0 : state.index + 1;
   };
 
@@ -100,10 +112,12 @@ function Annotate(props) {
   const playerWrapper = useRef(null);
 
   const handlePlayPause = () => {
+    //toggles the playing state variable whenever the video is played or paused using button
     setState({ ...state, playing: !state.playing });
     console.log('-------THE VIDEO IS PLAYED/PAUSED------');
   };
 
+  //standard functions which came with react-player
   const handleStop = () => {
     setState({ ...state, url: null, playing: false });
   };
@@ -151,8 +165,19 @@ function Annotate(props) {
 
   const handlePlay = () => {
     console.log('onPlay');
+
+    const unixTimestamp = Date.now();
+
+    // const milliseconds = unixTimestamp * 1000;
+    // const dateObject = new Date(milliseconds);
+    // dateObject.toLocaleString('en-US', { timeZoneName: 'short' });
+
+    console.log('PLAY TIMESTAMP-----', unixTimestamp);
     if (!state.playing) {
       setState({ ...state, playing: true });
+
+      //storing timestamp when the video is played for start time
+      setStartTime(unixTimestamp);
     }
   };
 
@@ -168,7 +193,14 @@ function Annotate(props) {
 
   const handlePause = () => {
     console.log('onPause');
+
+    const unixTimestamp = Date.now();
+
+    console.log('PAUSE TIMESTAMP-----', unixTimestamp);
     setState({ ...state, playing: false });
+
+    //storing timestamp when the video is played for pause time
+    setPauseTime(unixTimestamp);
   };
 
   const handleSeekMouseDown = (e) => {
@@ -197,6 +229,8 @@ function Annotate(props) {
   const handleEnded = () => {
     console.log('onEnded');
     console.log('playing', state.playing);
+
+    //change index of video when previous video ends
     setState({ ...state, index: _setIndex(), playing: true });
     console.log('playing', state.playing);
   };
@@ -216,23 +250,28 @@ function Annotate(props) {
 
   const createAnnotation = (e) => {
     e.preventDefault();
-    //push into json file
 
-    if (annotation === []) {
+    //if length of annotation array is zero, setAnnotation with the one current object
+    if (annotation.length === 0) {
       setAnnotation([
         {
           userId: state.userId,
           videoId: state.videoOrder[state.index].toString(),
+          startTime: startTime,
+          pauseTime: pauseTime,
           valence: valence,
           arousal: arousal,
         },
       ]);
     } else {
+      // if the length of annotation array is not zero then push the new object to the existing annotation array
       const newAnnotation = [
         ...annotation,
         {
           userId: state.userId,
           videoId: state.videoOrder[state.index].toString(),
+          startTime: startTime,
+          pauseTime: pauseTime,
           valence: valence,
           arousal: arousal,
         },
@@ -246,29 +285,12 @@ function Annotate(props) {
   };
 
   const handleValenceOnChange = (e) => {
+    //set valence value to state variable
     setValence(e.target.value);
   };
   const handleArousalOnChange = (e) => {
+    //set arousal value to state variable
     setArousal(e.target.value);
-  };
-
-  useEffect(() => {
-    console.log('paused/played', state.playing);
-  }, [state.playing]);
-
-  const exportCsv = () => {
-    const headers = [
-      { label: 'User Id', key: 'userId' },
-      { label: 'Video Id', key: 'videoId' },
-      { label: 'Valence', key: 'valence' },
-      { label: 'Arousal', key: 'arousal' },
-    ];
-
-    const csvReport = {
-      data: annotation,
-      headers: headers,
-      filename: 'test_report.csv',
-    };
   };
 
   return (
@@ -281,13 +303,6 @@ function Annotate(props) {
       <Row className='justify-content-center h-100 align-items-center'>
         <Col xs='7' className='h-50'>
           <div className='player-wrapper h-100 d-flex justify-content-center'>
-            {/* <video width='320' height='240' controls onEnded={handleEnded}>
-              <source
-                src={localVideos[state.videoOrder[state.index]]}
-                type='video/mp4'
-              />
-            </video> */}
-
             <ReactPlayer
               className='react-player'
               url={localVideos[state.videoOrder[state.index]]}
@@ -400,8 +415,9 @@ function Annotate(props) {
                 onChange={handleValenceOnChange}
               />
             </label>
+
             <label>
-              Arousal:
+              &nbsp; Arousal:
               <input
                 type='text'
                 name='arousal'
@@ -411,8 +427,6 @@ function Annotate(props) {
             </label>
             <input type='submit' value='Submit' />
           </form>
-
-          {/* <CSVLink {...exportCsv}>Export to CSV</CSVLink> */}
         </Col>
       </Row>
     </div>
