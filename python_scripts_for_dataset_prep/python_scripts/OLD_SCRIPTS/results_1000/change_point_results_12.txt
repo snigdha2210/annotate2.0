@@ -1,0 +1,240 @@
+sub_1
+Total number of probes done earlier: 2397 No. of probes now: 72
+Valence -- Actual Mean: 4.954721735502712 Changed Mean: 4.9375
+Arousal -- Actual Mean: 5.055157279933249 Changed Mean: 5.063569444444444
+Valence -- Actual Min: 0.5 Changed Min: 0.5
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 9.5 Changed Max: 9.5
+sub_2
+Total number of probes done earlier: 2391 No. of probes now: 22
+Valence -- Actual Mean: 4.940433709744877 Changed Mean: 4.8815
+Arousal -- Actual Mean: 5.070247176913425 Changed Mean: 5.147590909090909
+Valence -- Actual Min: 2.3930000000000002 Changed Min: 2.3930000000000002
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 8.247 Changed Max: 8.247
+sub_3
+Total number of probes done earlier: 2399 No. of probes now: 62
+Valence -- Actual Mean: 5.0002676115047935 Changed Mean: 5.001177419354838
+Arousal -- Actual Mean: 5.0008624426844515 Changed Mean: 5.000629032258065
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 5.073 Changed Max: 5.073
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.164 Changed Max: 5.039
+sub_4
+Total number of probes done earlier: 2396 No. of probes now: 53
+Valence -- Actual Mean: 5.019535475792988 Changed Mean: 5.048301886792453
+Arousal -- Actual Mean: 5.006843906510852 Changed Mean: 5.016735849056603
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.56 Changed Max: 7.56
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.8870000000000005 Changed Max: 5.8870000000000005
+sub_5
+Total number of probes done earlier: 2397 No. of probes now: 48
+Valence -- Actual Mean: 5.042655402586566 Changed Mean: 5.079083333333333
+Arousal -- Actual Mean: 5.002438047559449 Changed Mean: 5.003916666666666
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 8.796 Changed Max: 8.796
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.16 Changed Max: 5.16
+sub_6
+Total number of probes done earlier: 2396 No. of probes now: 42
+Valence -- Actual Mean: 5.017141068447412 Changed Mean: 5.036619047619048
+Arousal -- Actual Mean: 5.009215358931552 Changed Mean: 5.01997619047619
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 6.542999999999999 Changed Max: 6.537999999999999
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.8389999999999995 Changed Max: 5.8389999999999995
+sub_7
+Total number of probes done earlier: 2399 No. of probes now: 28
+Valence -- Actual Mean: 5.045880783659858 Changed Mean: 5.062321428571429
+Arousal -- Actual Mean: 4.998014172571906 Changed Mean: 4.997464285714286
+Valence -- Actual Min: 4.8389999999999995 Changed Min: 4.965
+Valence -- Actual Max: 9.5 Changed Max: 6.216
+Arousal -- Actual Min: 4.647 Changed Min: 4.937
+Arousal -- Actual Max: 5.091 Changed Max: 5.0
+sub_8
+Total number of probes done earlier: 2399 No. of probes now: 51
+Valence -- Actual Mean: 4.921167569820758 Changed Mean: 4.8416274509803925
+Arousal -- Actual Mean: 5.06325677365569 Changed Mean: 5.1267450980392155
+Valence -- Actual Min: 0.93 Changed Min: 0.93
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 8.805 Changed Max: 8.805
+sub_9
+Total number of probes done earlier: 2396 No. of probes now: 66
+Valence -- Actual Mean: 4.956169031719533 Changed Mean: 4.960287878787879
+Arousal -- Actual Mean: 5.015090567612687 Changed Mean: 5.013984848484848
+Valence -- Actual Min: 2.379 Changed Min: 2.379
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.922999999999999 Changed Max: 5.922999999999999
+sub_10
+Total number of probes done earlier: 2391 No. of probes now: 65
+Valence -- Actual Mean: 4.983848598912589 Changed Mean: 5.008246153846154
+Arousal -- Actual Mean: 5.05828565453785 Changed Mean: 5.062553846153847
+Valence -- Actual Min: 2.12 Changed Min: 2.543
+Valence -- Actual Max: 8.775 Changed Max: 8.462
+Arousal -- Actual Min: 4.211 Changed Min: 5.0
+Arousal -- Actual Max: 8.632 Changed Max: 8.361
+sub_11
+Total number of probes done earlier: 2399 No. of probes now: 30
+Valence -- Actual Mean: 4.998307628178408 Changed Mean: 5.000733333333333
+Arousal -- Actual Mean: 4.965348061692372 Changed Mean: 4.9652
+Valence -- Actual Min: 4.671 Changed Min: 5.0
+Valence -- Actual Max: 5.053 Changed Max: 5.022
+Arousal -- Actual Min: 3.719 Changed Min: 3.92
+Arousal -- Actual Max: 5.018 Changed Max: 5.018
+sub_12
+Total number of probes done earlier: 2396 No. of probes now: 55
+Valence -- Actual Mean: 5.010562604340568 Changed Mean: 5.040909090909091
+Arousal -- Actual Mean: 5.01254590984975 Changed Mean: 5.046690909090909
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.25 Changed Max: 7.25
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 7.568 Changed Max: 7.568
+sub_13
+Total number of probes done earlier: 2397 No. of probes now: 66
+Valence -- Actual Mean: 4.950911556111806 Changed Mean: 4.935878787878789
+Arousal -- Actual Mean: 5.040854401335002 Changed Mean: 5.053045454545455
+Valence -- Actual Min: 2.464 Changed Min: 2.464
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 7.131 Changed Max: 7.131
+sub_14
+Total number of probes done earlier: 2400 No. of probes now: 31
+Valence -- Actual Mean: 5.0010375 Changed Mean: 5.002161290322581
+Arousal -- Actual Mean: 4.9986516666666665 Changed Mean: 4.974354838709677
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 5.111000000000001 Changed Max: 5.067
+Arousal -- Actual Min: 3.2760000000000002 Changed Min: 3.2760000000000002
+Arousal -- Actual Max: 5.088 Changed Max: 5.088
+sub_15
+Total number of probes done earlier: 2396 No. of probes now: 51
+Valence -- Actual Mean: 5.020440317195325 Changed Mean: 5.033019607843137
+Arousal -- Actual Mean: 5.0228222036727885 Changed Mean: 5.055843137254901
+Valence -- Actual Min: 4.913 Changed Min: 5.0
+Valence -- Actual Max: 6.415 Changed Max: 6.221
+Arousal -- Actual Min: 4.232 Changed Min: 4.496
+Arousal -- Actual Max: 6.267 Changed Max: 5.774
+sub_16
+Total number of probes done earlier: 2394 No. of probes now: 28
+Valence -- Actual Mean: 5.016168755221387 Changed Mean: 5.077285714285714
+Arousal -- Actual Mean: 4.988529239766082 Changed Mean: 4.9476071428571435
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.164 Changed Max: 7.164
+Arousal -- Actual Min: 3.533 Changed Min: 3.533
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_17
+Total number of probes done earlier: 2400 No. of probes now: 75
+Valence -- Actual Mean: 5.025702916666667 Changed Mean: 5.020453333333333
+Arousal -- Actual Mean: 4.9953070833333335 Changed Mean: 4.993453333333334
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 6.553999999999999 Changed Max: 6.534
+Arousal -- Actual Min: 4.502 Changed Min: 4.502
+Arousal -- Actual Max: 5.035 Changed Max: 5.007
+sub_18
+Total number of probes done earlier: 2398 No. of probes now: 58
+Valence -- Actual Mean: 5.0447464553794825 Changed Mean: 5.077172413793104
+Arousal -- Actual Mean: 5.003325688073395 Changed Mean: 4.994896551724138
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.524 Changed Max: 7.524
+Arousal -- Actual Min: 4.423 Changed Min: 4.423
+Arousal -- Actual Max: 6.832999999999999 Changed Max: 5.686
+sub_19
+Total number of probes done earlier: 2398 No. of probes now: 53
+Valence -- Actual Mean: 4.953875312760634 Changed Mean: 4.915094339622642
+Arousal -- Actual Mean: 5.055960800667222 Changed Mean: 5.085849056603774
+Valence -- Actual Min: 0.5 Changed Min: 0.5
+Valence -- Actual Max: 6.093999999999999 Changed Max: 5.0
+Arousal -- Actual Min: 4.482 Changed Min: 5.0
+Arousal -- Actual Max: 9.5 Changed Max: 9.5
+sub_20
+Total number of probes done earlier: 2398 No. of probes now: 62
+Valence -- Actual Mean: 4.948570058381985 Changed Mean: 4.925516129032258
+Arousal -- Actual Mean: 5.068457464553795 Changed Mean: 5.102370967741935
+Valence -- Actual Min: 2.346 Changed Min: 2.346
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 8.621 Changed Max: 8.621
+sub_21
+Total number of probes done earlier: 2394 No. of probes now: 81
+Valence -- Actual Mean: 4.935752297410192 Changed Mean: 4.891728395061729
+Arousal -- Actual Mean: 5.0643734335839605 Changed Mean: 5.056037037037037
+Valence -- Actual Min: 0.5 Changed Min: 0.5
+Valence -- Actual Max: 9.5 Changed Max: 5.0
+Arousal -- Actual Min: 4.782 Changed Min: 4.782
+Arousal -- Actual Max: 7.15 Changed Max: 7.15
+sub_22
+Total number of probes done earlier: 2398 No. of probes now: 55
+Valence -- Actual Mean: 5.042553794829024 Changed Mean: 5.047763636363636
+Arousal -- Actual Mean: 5.007952877397831 Changed Mean: 5.008490909090908
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.6610000000000005 Changed Max: 7.627000000000001
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.474 Changed Max: 5.4670000000000005
+sub_23
+Total number of probes done earlier: 2397 No. of probes now: 58
+Valence -- Actual Mean: 5.014533166458072 Changed Mean: 5.035862068965517
+Arousal -- Actual Mean: 5.001941176470589 Changed Mean: 5.004706896551725
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.08 Changed Max: 7.08
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.273 Changed Max: 5.273
+sub_24
+Total number of probes done earlier: 2387 No. of probes now: 41
+Valence -- Actual Mean: 4.97330749895266 Changed Mean: 4.940658536585366
+Arousal -- Actual Mean: 5.018423544197737 Changed Mean: 5.035682926829268
+Valence -- Actual Min: 2.5669999999999997 Changed Min: 2.5669999999999997
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 6.462999999999999 Changed Max: 6.462999999999999
+sub_25
+Total number of probes done earlier: 2397 No. of probes now: 71
+Valence -- Actual Mean: 4.999203587818106 Changed Mean: 4.998802816901408
+Arousal -- Actual Mean: 4.972740926157697 Changed Mean: 4.959014084507043
+Valence -- Actual Min: 4.915 Changed Min: 4.915
+Valence -- Actual Max: 5.03 Changed Max: 5.0
+Arousal -- Actual Min: 2.09 Changed Min: 2.09
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_26
+Total number of probes done earlier: 2399 No. of probes now: 90
+Valence -- Actual Mean: 5.032385160483535 Changed Mean: 5.036955555555555
+Arousal -- Actual Mean: 5.060528970404334 Changed Mean: 5.042022222222222
+Valence -- Actual Min: 4.646 Changed Min: 4.843999999999999
+Valence -- Actual Max: 8.175 Changed Max: 8.175
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 6.369 Changed Max: 5.441
+sub_27
+Total number of probes done earlier: 2397 No. of probes now: 46
+Valence -- Actual Mean: 5.0117108886107635 Changed Mean: 5.020760869565217
+Arousal -- Actual Mean: 5.026743429286608 Changed Mean: 5.0270652173913035
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 5.9910000000000005 Changed Max: 5.955
+Arousal -- Actual Min: 4.768 Changed Min: 4.856
+Arousal -- Actual Max: 5.147 Changed Max: 5.132999999999999
+sub_28
+Total number of probes done earlier: 2398 No. of probes now: 52
+Valence -- Actual Mean: 5.012984987489574 Changed Mean: 5.026288461538462
+Arousal -- Actual Mean: 5.007898665554628 Changed Mean: 5.016173076923077
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 6.367000000000001 Changed Max: 6.367000000000001
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.841 Changed Max: 5.841
+sub_29
+Total number of probes done earlier: 2394 No. of probes now: 76
+Valence -- Actual Mean: 4.976362155388471 Changed Mean: 4.967342105263159
+Arousal -- Actual Mean: 5.011349206349206 Changed Mean: 5.0161184210526315
+Valence -- Actual Min: 2.889 Changed Min: 2.889
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.934 Changed Max: 5.934
+sub_30
+Total number of probes done earlier: 2391 No. of probes now: 29
+Valence -- Actual Mean: 4.927657047260561 Changed Mean: 4.766
+Arousal -- Actual Mean: 5.06707904642409 Changed Mean: 5.216379310344828
+Valence -- Actual Min: 0.5 Changed Min: 0.5
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 9.5 Changed Max: 9.5

@@ -1,0 +1,2001 @@
+______________________________________
+____________Video 2______________
+______________________________________
+______________Subject 10_____________
+______________________________________
+ Number Of points: 7
+ Mean Change in valence: 0.4669999999999999
+ Mean Change in arousal: 0.09542857142857132
+ Max Change in valence: 2.364
+ Max Change in arousal: 0.2699999999999996
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 3.5319936977134767
+ Point 1: Probe Time Window Start = 1113126.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.095
+ Point 1: Probe Time Window End = 1123126.01
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.042
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.052999999999999936
+
+
+ Point 2: Change point score = 3.973177511141008
+ Point 2: Probe Time Window Start = 1114126.01
+ Point 2: Valence at Window Start = 5.0
+ Point 2: Arousal at Window Start = 5.095
+ Point 2: Probe Time Window End = 1124126.01
+ Point 2: Valence at Window End = 5.0
+ Point 2: Arousal at Window End = 5.063
+
+ Point 2: Change in Valence = 0.0
+ Point 2: Change in Arousal = 0.03200000000000003
+
+
+ Point 3: Change point score = 3.4649713890113443
+ Point 3: Probe Time Window Start = 1155126.01
+ Point 3: Valence at Window Start = 6.173
+ Point 3: Arousal at Window Start = 5.143
+ Point 3: Probe Time Window End = 1165126.01
+ Point 3: Valence at Window End = 6.904
+ Point 3: Arousal at Window End = 5.356
+
+ Point 3: Change in Valence = 0.7309999999999999
+ Point 3: Change in Arousal = 0.21300000000000008
+
+
+ Point 4: Change point score = 3.385368615901853
+ Point 4: Probe Time Window Start = 1160126.01
+ Point 4: Valence at Window Start = 6.904
+ Point 4: Arousal at Window Start = 5.332
+ Point 4: Probe Time Window End = 1170126.01
+ Point 4: Valence at Window End = 6.904
+ Point 4: Arousal at Window End = 5.372
+
+ Point 4: Change in Valence = 0.0
+ Point 4: Change in Arousal = 0.040000000000000036
+
+
+ Point 5: Change point score = 4.566711851370906
+ Point 5: Probe Time Window Start = 1165126.01
+ Point 5: Valence at Window Start = 6.904
+ Point 5: Arousal at Window Start = 5.356
+ Point 5: Probe Time Window End = 1175126.01
+ Point 5: Valence at Window End = 6.9
+ Point 5: Arousal at Window End = 5.377
+
+ Point 5: Change in Valence = 0.0039999999999995595
+ Point 5: Change in Arousal = 0.020999999999999908
+
+
+ Point 6: Change point score = 3.930417525618892
+ Point 6: Probe Time Window Start = 1178126.01
+ Point 6: Valence at Window Start = 6.899
+ Point 6: Arousal at Window Start = 5.377
+ Point 6: Probe Time Window End = 1188126.01
+ Point 6: Valence at Window End = 7.069
+ Point 6: Arousal at Window End = 5.338
+
+ Point 6: Change in Valence = 0.16999999999999993
+ Point 6: Change in Arousal = 0.0389999999999997
+
+
+ Point 7: Change point score = 3.76832370091006
+ Point 7: Probe Time Window Start = 1199126.01
+ Point 7: Valence at Window Start = 7.364
+ Point 7: Arousal at Window Start = 5.319
+ Point 7: Probe Time Window End = 1209126.01
+ Point 7: Valence at Window End = 5.0
+ Point 7: Arousal at Window End = 5.049
+
+ Point 7: Change in Valence = 2.364
+ Point 7: Change in Arousal = 0.2699999999999996
+
+
+______________________________________
+______________Subject 11_____________
+______________________________________
+ Number Of points: 5
+ Mean Change in valence: 0.17939999999999987
+ Mean Change in arousal: 0.04379999999999988
+ Max Change in valence: 0.4419999999999993
+ Max Change in arousal: 0.19700000000000006
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 8.545388764865216
+ Point 1: Probe Time Window Start = 1956751.01
+ Point 1: Valence at Window Start = 5.7
+ Point 1: Arousal at Window Start = 4.981
+ Point 1: Probe Time Window End = 1966751.01
+ Point 1: Valence at Window End = 5.805
+ Point 1: Arousal at Window End = 5.178
+
+ Point 1: Change in Valence = 0.10499999999999954
+ Point 1: Change in Arousal = 0.19700000000000006
+
+
+ Point 2: Change point score = 4.134493736851244
+ Point 2: Probe Time Window Start = 2025751.01
+ Point 2: Valence at Window Start = 6.236
+ Point 2: Arousal at Window Start = 4.923
+ Point 2: Probe Time Window End = 2035751.01
+ Point 2: Valence at Window End = 6.331
+ Point 2: Arousal at Window End = 4.937
+
+ Point 2: Change in Valence = 0.09500000000000064
+ Point 2: Change in Arousal = 0.014000000000000234
+
+
+ Point 3: Change point score = 3.737864212394364
+ Point 3: Probe Time Window Start = 2033751.01
+ Point 3: Valence at Window Start = 6.327
+ Point 3: Arousal at Window Start = 4.941
+ Point 3: Probe Time Window End = 2043751.01
+ Point 3: Valence at Window End = 6.438
+ Point 3: Arousal at Window End = 4.937
+
+ Point 3: Change in Valence = 0.11099999999999977
+ Point 3: Change in Arousal = 0.0039999999999995595
+
+
+ Point 4: Change point score = 3.665950992648744
+ Point 4: Probe Time Window Start = 2034751.01
+ Point 4: Valence at Window Start = 6.327
+ Point 4: Arousal at Window Start = 4.941
+ Point 4: Probe Time Window End = 2044751.01
+ Point 4: Valence at Window End = 6.471
+ Point 4: Arousal at Window End = 4.937
+
+ Point 4: Change in Valence = 0.14400000000000013
+ Point 4: Change in Arousal = 0.0039999999999995595
+
+
+ Point 5: Change point score = 4.453286641266651
+ Point 5: Probe Time Window Start = 2040751.01
+ Point 5: Valence at Window Start = 6.416
+ Point 5: Arousal at Window Start = 4.937
+ Point 5: Probe Time Window End = 2050751.01
+ Point 5: Valence at Window End = 6.858
+ Point 5: Arousal at Window End = 4.937
+
+ Point 5: Change in Valence = 0.4419999999999993
+ Point 5: Change in Arousal = 0.0
+
+
+______________________________________
+______________Subject 12_____________
+______________________________________
+ Number Of points: 6
+ Mean Change in valence: 1.2391666666666665
+ Mean Change in arousal: 0.6003333333333335
+ Max Change in valence: 3.462999999999999
+ Max Change in arousal: 1.9320000000000004
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 4.29334395494306
+ Point 1: Probe Time Window Start = 567626
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 577626
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 4.427665076351078
+ Point 2: Probe Time Window Start = 586626
+ Point 2: Valence at Window Start = 5.0
+ Point 2: Arousal at Window Start = 5.0
+ Point 2: Probe Time Window End = 596626
+ Point 2: Valence at Window End = 5.0
+ Point 2: Arousal at Window End = 5.0
+
+ Point 2: Change in Valence = 0.0
+ Point 2: Change in Arousal = 0.0
+
+
+ Point 3: Change point score = 4.317888779910977
+ Point 3: Probe Time Window Start = 623626
+ Point 3: Valence at Window Start = 7.065
+ Point 3: Arousal at Window Start = 6.485
+ Point 3: Probe Time Window End = 633626
+ Point 3: Valence at Window End = 7.065
+ Point 3: Arousal at Window End = 6.615
+
+ Point 3: Change in Valence = 0.0
+ Point 3: Change in Arousal = 0.1299999999999999
+
+
+ Point 4: Change point score = 7.190897236471227
+ Point 4: Probe Time Window Start = 661626
+ Point 4: Valence at Window Start = 9.5
+ Point 4: Arousal at Window Start = 7.312
+ Point 4: Probe Time Window End = 671626
+ Point 4: Valence at Window End = 7.237
+ Point 4: Arousal at Window End = 6.478
+
+ Point 4: Change in Valence = 2.263
+ Point 4: Change in Arousal = 0.8340000000000005
+
+
+ Point 5: Change point score = 4.3354198165664535
+ Point 5: Probe Time Window Start = 666626
+ Point 5: Valence at Window Start = 8.463
+ Point 5: Arousal at Window Start = 6.932
+ Point 5: Probe Time Window End = 676626
+ Point 5: Valence at Window End = 5.0
+ Point 5: Arousal at Window End = 5.0
+
+ Point 5: Change in Valence = 3.462999999999999
+ Point 5: Change in Arousal = 1.9320000000000004
+
+
+ Point 6: Change point score = 4.302774402307377
+ Point 6: Probe Time Window Start = 668626
+ Point 6: Valence at Window Start = 6.709
+ Point 6: Arousal at Window Start = 5.706
+ Point 6: Probe Time Window End = 678626
+ Point 6: Valence at Window End = 5.0
+ Point 6: Arousal at Window End = 5.0
+
+ Point 6: Change in Valence = 1.7089999999999996
+ Point 6: Change in Arousal = 0.7060000000000004
+
+
+______________________________________
+______________Subject 13_____________
+______________________________________
+ Number Of points: 8
+ Mean Change in valence: 0.221375
+ Mean Change in arousal: 0.2360000000000001
+ Max Change in valence: 0.4450000000000003
+ Max Change in arousal: 0.9510000000000005
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 12.786770946066152
+ Point 1: Probe Time Window Start = 1642626.01
+ Point 1: Valence at Window Start = 6.862
+ Point 1: Arousal at Window Start = 4.669
+ Point 1: Probe Time Window End = 1652626.01
+ Point 1: Valence at Window End = 6.436
+ Point 1: Arousal at Window End = 5.256
+
+ Point 1: Change in Valence = 0.42600000000000016
+ Point 1: Change in Arousal = 0.5870000000000006
+
+
+ Point 2: Change point score = 8.081639191770371
+ Point 2: Probe Time Window Start = 1646626.01
+ Point 2: Valence at Window Start = 6.862
+ Point 2: Arousal at Window Start = 4.664
+ Point 2: Probe Time Window End = 1656626.01
+ Point 2: Valence at Window End = 7.307
+ Point 2: Arousal at Window End = 5.615
+
+ Point 2: Change in Valence = 0.4450000000000003
+ Point 2: Change in Arousal = 0.9510000000000005
+
+
+ Point 3: Change point score = 8.79184374244978
+ Point 3: Probe Time Window Start = 1681626.01
+ Point 3: Valence at Window Start = 7.288
+ Point 3: Arousal at Window Start = 4.997
+ Point 3: Probe Time Window End = 1691626.01
+ Point 3: Valence at Window End = 7.52
+ Point 3: Arousal at Window End = 4.961
+
+ Point 3: Change in Valence = 0.23199999999999932
+ Point 3: Change in Arousal = 0.03599999999999959
+
+
+ Point 4: Change point score = 6.823291585923814
+ Point 4: Probe Time Window Start = 1699626.01
+ Point 4: Valence at Window Start = 7.169
+ Point 4: Arousal at Window Start = 4.935
+ Point 4: Probe Time Window End = 1709626.01
+ Point 4: Valence at Window End = 7.169
+ Point 4: Arousal at Window End = 5.032
+
+ Point 4: Change in Valence = 0.0
+ Point 4: Change in Arousal = 0.09700000000000042
+
+
+ Point 5: Change point score = 6.59158735275312
+ Point 5: Probe Time Window Start = 1703626.01
+ Point 5: Valence at Window Start = 7.169
+ Point 5: Arousal at Window Start = 4.955
+ Point 5: Probe Time Window End = 1713626.01
+ Point 5: Valence at Window End = 7.191
+ Point 5: Arousal at Window End = 5.084
+
+ Point 5: Change in Valence = 0.02200000000000024
+ Point 5: Change in Arousal = 0.12899999999999956
+
+
+ Point 6: Change point score = 6.469493161208055
+ Point 6: Probe Time Window Start = 1736626.01
+ Point 6: Valence at Window Start = 7.616
+ Point 6: Arousal at Window Start = 5.143
+ Point 6: Probe Time Window End = 1746626.01
+ Point 6: Valence at Window End = 7.616
+ Point 6: Arousal at Window End = 5.183
+
+ Point 6: Change in Valence = 0.0
+ Point 6: Change in Arousal = 0.040000000000000036
+
+
+ Point 7: Change point score = 6.5462778302487
+ Point 7: Probe Time Window Start = 1741626.01
+ Point 7: Valence at Window Start = 7.616
+ Point 7: Arousal at Window Start = 5.162
+ Point 7: Probe Time Window End = 1751626.01
+ Point 7: Valence at Window End = 7.986
+ Point 7: Arousal at Window End = 5.204
+
+ Point 7: Change in Valence = 0.3700000000000001
+ Point 7: Change in Arousal = 0.041999999999999815
+
+
+ Point 8: Change point score = 6.717464666000919
+ Point 8: Probe Time Window Start = 1773626.01
+ Point 8: Valence at Window Start = 8.017
+ Point 8: Arousal at Window Start = 5.027
+ Point 8: Probe Time Window End = 1783626.01
+ Point 8: Valence at Window End = 8.293
+ Point 8: Arousal at Window End = 5.033
+
+ Point 8: Change in Valence = 0.2759999999999998
+ Point 8: Change in Arousal = 0.006000000000000227
+
+
+______________________________________
+______________Subject 14_____________
+______________________________________
+ Number Of points: 1
+ Mean Change in valence: 0.8000000000000007
+ Mean Change in arousal: 0.02400000000000002
+ Max Change in valence: 0.8000000000000007
+ Max Change in arousal: 0.02400000000000002
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 14.973411717224668
+ Point 1: Probe Time Window Start = 282501.01
+ Point 1: Valence at Window Start = 6.092
+ Point 1: Arousal at Window Start = 4.955
+ Point 1: Probe Time Window End = 292501.01
+ Point 1: Valence at Window End = 6.892
+ Point 1: Arousal at Window End = 4.979
+
+ Point 1: Change in Valence = 0.8000000000000007
+ Point 1: Change in Arousal = 0.02400000000000002
+
+
+______________________________________
+______________Subject 15_____________
+______________________________________
+ Number Of points: 4
+ Mean Change in valence: 0.6305000000000001
+ Mean Change in arousal: 0.2729999999999999
+ Max Change in valence: 0.7330000000000005
+ Max Change in arousal: 0.42799999999999994
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 8.411048327903021
+ Point 1: Probe Time Window Start = 1345876
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 1355876
+ Point 1: Valence at Window End = 5.728
+ Point 1: Arousal at Window End = 5.256
+
+ Point 1: Change in Valence = 0.7279999999999998
+ Point 1: Change in Arousal = 0.2560000000000002
+
+
+ Point 2: Change point score = 8.598304923074622
+ Point 2: Probe Time Window Start = 1404876
+ Point 2: Valence at Window Start = 6.462
+ Point 2: Arousal at Window Start = 5.462
+ Point 2: Probe Time Window End = 1414876
+ Point 2: Valence at Window End = 7.002
+ Point 2: Arousal at Window End = 5.034
+
+ Point 2: Change in Valence = 0.54
+ Point 2: Change in Arousal = 0.42799999999999994
+
+
+ Point 3: Change point score = 11.652629272292309
+ Point 3: Probe Time Window Start = 1431876
+ Point 3: Valence at Window Start = 6.929
+ Point 3: Arousal at Window Start = 4.865
+ Point 3: Probe Time Window End = 1441876
+ Point 3: Valence at Window End = 6.196
+ Point 3: Arousal at Window End = 4.99
+
+ Point 3: Change in Valence = 0.7330000000000005
+ Point 3: Change in Arousal = 0.125
+
+
+ Point 4: Change point score = 22.608537771913603
+ Point 4: Probe Time Window Start = 1474876
+ Point 4: Valence at Window Start = 7.386
+ Point 4: Arousal at Window Start = 6.06
+ Point 4: Probe Time Window End = 1484876
+ Point 4: Valence at Window End = 7.907
+ Point 4: Arousal at Window End = 5.777
+
+ Point 4: Change in Valence = 0.5209999999999999
+ Point 4: Change in Arousal = 0.2829999999999995
+
+
+______________________________________
+______________Subject 16_____________
+______________________________________
+ Number Of points: 5
+ Mean Change in valence: 1.0438
+ Mean Change in arousal: 0.34519999999999984
+ Max Change in valence: 3.1140000000000008
+ Max Change in arousal: 1.1149999999999993
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 6.631844627371865
+ Point 1: Probe Time Window Start = 341501.01
+ Point 1: Valence at Window Start = 5.258
+ Point 1: Arousal at Window Start = 4.054
+ Point 1: Probe Time Window End = 351501.01
+ Point 1: Valence at Window End = 6.144
+ Point 1: Arousal at Window End = 4.276
+
+ Point 1: Change in Valence = 0.8860000000000001
+ Point 1: Change in Arousal = 0.22199999999999953
+
+
+ Point 2: Change point score = 7.831878885389864
+ Point 2: Probe Time Window Start = 358501.01
+ Point 2: Valence at Window Start = 6.129
+ Point 2: Arousal at Window Start = 4.416
+ Point 2: Probe Time Window End = 368501.01
+ Point 2: Valence at Window End = 9.243
+ Point 2: Arousal at Window End = 4.318
+
+ Point 2: Change in Valence = 3.1140000000000008
+ Point 2: Change in Arousal = 0.09800000000000075
+
+
+ Point 3: Change point score = 5.213377137105532
+ Point 3: Probe Time Window Start = 364501.01
+ Point 3: Valence at Window Start = 8.406
+ Point 3: Arousal at Window Start = 4.243
+ Point 3: Probe Time Window End = 374501.01
+ Point 3: Valence at Window End = 8.816
+ Point 3: Arousal at Window End = 5.358
+
+ Point 3: Change in Valence = 0.41000000000000014
+ Point 3: Change in Arousal = 1.1149999999999993
+
+
+ Point 4: Change point score = 4.6617528571596765
+ Point 4: Probe Time Window Start = 371501.01
+ Point 4: Valence at Window Start = 9.5
+ Point 4: Arousal at Window Start = 5.277
+ Point 4: Probe Time Window End = 381501.01
+ Point 4: Valence at Window End = 8.784
+ Point 4: Arousal at Window End = 5.565
+
+ Point 4: Change in Valence = 0.7159999999999993
+ Point 4: Change in Arousal = 0.28800000000000026
+
+
+ Point 5: Change point score = 6.409399878440028
+ Point 5: Probe Time Window Start = 381501.01
+ Point 5: Valence at Window Start = 8.784
+ Point 5: Arousal at Window Start = 5.565
+ Point 5: Probe Time Window End = 391501.01
+ Point 5: Valence at Window End = 8.877
+ Point 5: Arousal at Window End = 5.568
+
+ Point 5: Change in Valence = 0.09299999999999997
+ Point 5: Change in Arousal = 0.0029999999999992255
+
+
+______________________________________
+______________Subject 17_____________
+______________________________________
+ Number Of points: 8
+ Mean Change in valence: 0.2936249999999999
+ Mean Change in arousal: 0.46387500000000026
+ Max Change in valence: 0.9669999999999996
+ Max Change in arousal: 1.8780000000000001
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 3.780308304512332
+ Point 1: Probe Time Window Start = 2155501
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.027
+ Point 1: Probe Time Window End = 2165501
+ Point 1: Valence at Window End = 5.269
+ Point 1: Arousal at Window End = 3.149
+
+ Point 1: Change in Valence = 0.26900000000000013
+ Point 1: Change in Arousal = 1.8780000000000001
+
+
+ Point 2: Change point score = 3.798224635892129
+ Point 2: Probe Time Window Start = 2181501
+ Point 2: Valence at Window Start = 5.395
+ Point 2: Arousal at Window Start = 3.304
+ Point 2: Probe Time Window End = 2191501
+ Point 2: Valence at Window End = 5.287
+ Point 2: Arousal at Window End = 3.148
+
+ Point 2: Change in Valence = 0.10799999999999965
+ Point 2: Change in Arousal = 0.1559999999999997
+
+
+ Point 3: Change point score = 3.789373190767674
+ Point 3: Probe Time Window Start = 2231501
+ Point 3: Valence at Window Start = 5.335
+ Point 3: Arousal at Window Start = 4.944
+ Point 3: Probe Time Window End = 2241501
+ Point 3: Valence at Window End = 5.726
+ Point 3: Arousal at Window End = 4.858
+
+ Point 3: Change in Valence = 0.391
+ Point 3: Change in Arousal = 0.0860000000000003
+
+
+ Point 4: Change point score = 3.827195952466388
+ Point 4: Probe Time Window Start = 2232501
+ Point 4: Valence at Window Start = 5.624
+ Point 4: Arousal at Window Start = 4.894
+ Point 4: Probe Time Window End = 2242501
+ Point 4: Valence at Window End = 5.726
+ Point 4: Arousal at Window End = 4.858
+
+ Point 4: Change in Valence = 0.10200000000000031
+ Point 4: Change in Arousal = 0.036000000000000476
+
+
+ Point 5: Change point score = 4.110344962037107
+ Point 5: Probe Time Window Start = 2236501
+ Point 5: Valence at Window Start = 5.633
+ Point 5: Arousal at Window Start = 4.826
+ Point 5: Probe Time Window End = 2246501
+ Point 5: Valence at Window End = 5.726
+ Point 5: Arousal at Window End = 4.863
+
+ Point 5: Change in Valence = 0.09299999999999997
+ Point 5: Change in Arousal = 0.03700000000000081
+
+
+ Point 6: Change point score = 3.783949798093983
+ Point 6: Probe Time Window Start = 2237501
+ Point 6: Valence at Window Start = 5.726
+ Point 6: Arousal at Window Start = 4.858
+ Point 6: Probe Time Window End = 2247501
+ Point 6: Valence at Window End = 5.726
+ Point 6: Arousal at Window End = 4.863
+
+ Point 6: Change in Valence = 0.0
+ Point 6: Change in Arousal = 0.005000000000000782
+
+
+ Point 7: Change point score = 3.868005162315348
+ Point 7: Probe Time Window Start = 2248501
+ Point 7: Valence at Window Start = 5.726
+ Point 7: Arousal at Window Start = 4.864
+ Point 7: Probe Time Window End = 2258501
+ Point 7: Valence at Window End = 6.145
+ Point 7: Arousal at Window End = 5.236
+
+ Point 7: Change in Valence = 0.4189999999999996
+ Point 7: Change in Arousal = 0.3719999999999999
+
+
+ Point 8: Change point score = 3.96275453501644
+ Point 8: Probe Time Window Start = 2312501
+ Point 8: Valence at Window Start = 8.257
+ Point 8: Arousal at Window Start = 5.675
+ Point 8: Probe Time Window End = 2322501
+ Point 8: Valence at Window End = 7.29
+ Point 8: Arousal at Window End = 4.534
+
+ Point 8: Change in Valence = 0.9669999999999996
+ Point 8: Change in Arousal = 1.141
+
+
+______________________________________
+______________Subject 18_____________
+______________________________________
+ Number Of points: 6
+ Mean Change in valence: 0.01133333333333327
+ Mean Change in arousal: 0.00816666666666673
+ Max Change in valence: 0.06799999999999962
+ Max Change in arousal: 0.04900000000000038
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.654994020467726
+ Point 1: Probe Time Window Start = 219501.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 229501.01
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 6.315214796543437
+ Point 2: Probe Time Window Start = 221501.01
+ Point 2: Valence at Window Start = 5.0
+ Point 2: Arousal at Window Start = 5.0
+ Point 2: Probe Time Window End = 231501.01
+ Point 2: Valence at Window End = 5.0
+ Point 2: Arousal at Window End = 5.0
+
+ Point 2: Change in Valence = 0.0
+ Point 2: Change in Arousal = 0.0
+
+
+ Point 3: Change point score = 7.20881763316442
+ Point 3: Probe Time Window Start = 222501.01
+ Point 3: Valence at Window Start = 5.0
+ Point 3: Arousal at Window Start = 5.0
+ Point 3: Probe Time Window End = 232501.01
+ Point 3: Valence at Window End = 5.0
+ Point 3: Arousal at Window End = 5.0
+
+ Point 3: Change in Valence = 0.0
+ Point 3: Change in Arousal = 0.0
+
+
+ Point 4: Change point score = 7.499290922496954
+ Point 4: Probe Time Window Start = 223501.01
+ Point 4: Valence at Window Start = 5.0
+ Point 4: Arousal at Window Start = 5.0
+ Point 4: Probe Time Window End = 233501.01
+ Point 4: Valence at Window End = 5.068
+ Point 4: Arousal at Window End = 5.049
+
+ Point 4: Change in Valence = 0.06799999999999962
+ Point 4: Change in Arousal = 0.04900000000000038
+
+
+ Point 5: Change point score = 4.480603218342942
+ Point 5: Probe Time Window Start = 241501.01
+ Point 5: Valence at Window Start = 5.528
+ Point 5: Arousal at Window Start = 5.516
+ Point 5: Probe Time Window End = 251501.01
+ Point 5: Valence at Window End = 5.528
+ Point 5: Arousal at Window End = 5.516
+
+ Point 5: Change in Valence = 0.0
+ Point 5: Change in Arousal = 0.0
+
+
+ Point 6: Change point score = 4.29288513287463
+ Point 6: Probe Time Window Start = 245501.01
+ Point 6: Valence at Window Start = 5.528
+ Point 6: Arousal at Window Start = 5.516
+ Point 6: Probe Time Window End = 255501.01
+ Point 6: Valence at Window End = 5.528
+ Point 6: Arousal at Window End = 5.516
+
+ Point 6: Change in Valence = 0.0
+ Point 6: Change in Arousal = 0.0
+
+
+______________________________________
+______________Subject 19_____________
+______________________________________
+ Number Of points: 7
+ Mean Change in valence: 0.14085714285714296
+ Mean Change in arousal: 0.01185714285714301
+ Max Change in valence: 0.665
+ Max Change in arousal: 0.057000000000000384
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 5.550263266602407
+ Point 1: Probe Time Window Start = 1625001.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 1635001.01
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 6.181573991176794
+ Point 2: Probe Time Window Start = 1634001.01
+ Point 2: Valence at Window Start = 5.0
+ Point 2: Arousal at Window Start = 5.0
+ Point 2: Probe Time Window End = 1644001.01
+ Point 2: Valence at Window End = 5.0
+ Point 2: Arousal at Window End = 5.0
+
+ Point 2: Change in Valence = 0.0
+ Point 2: Change in Arousal = 0.0
+
+
+ Point 3: Change point score = 5.559554548434741
+ Point 3: Probe Time Window Start = 1658001.01
+ Point 3: Valence at Window Start = 5.042
+ Point 3: Arousal at Window Start = 5.0
+ Point 3: Probe Time Window End = 1668001.01
+ Point 3: Valence at Window End = 5.037
+ Point 3: Arousal at Window End = 5.0
+
+ Point 3: Change in Valence = 0.004999999999999893
+ Point 3: Change in Arousal = 0.0
+
+
+ Point 4: Change point score = 5.663952102710923
+ Point 4: Probe Time Window Start = 1659001.01
+ Point 4: Valence at Window Start = 5.105
+ Point 4: Arousal at Window Start = 5.0
+ Point 4: Probe Time Window End = 1669001.01
+ Point 4: Valence at Window End = 5.0
+ Point 4: Arousal at Window End = 5.0
+
+ Point 4: Change in Valence = 0.10500000000000043
+ Point 4: Change in Arousal = 0.0
+
+
+ Point 5: Change point score = 5.572357973941244
+ Point 5: Probe Time Window Start = 1687001.01
+ Point 5: Valence at Window Start = 5.687
+ Point 5: Arousal at Window Start = 4.983
+ Point 5: Probe Time Window End = 1697001.01
+ Point 5: Valence at Window End = 6.352
+ Point 5: Arousal at Window End = 4.993
+
+ Point 5: Change in Valence = 0.665
+ Point 5: Change in Arousal = 0.010000000000000675
+
+
+ Point 6: Change point score = 5.612044919373948
+ Point 6: Probe Time Window Start = 1763001.01
+ Point 6: Valence at Window Start = 6.306
+ Point 6: Arousal at Window Start = 5.017
+ Point 6: Probe Time Window End = 1773001.01
+ Point 6: Valence at Window End = 6.495
+ Point 6: Arousal at Window End = 4.96
+
+ Point 6: Change in Valence = 0.18900000000000006
+ Point 6: Change in Arousal = 0.057000000000000384
+
+
+ Point 7: Change point score = 8.450029330649466
+ Point 7: Probe Time Window Start = 1785001.01
+ Point 7: Valence at Window Start = 7.139
+ Point 7: Arousal at Window Start = 4.994
+ Point 7: Probe Time Window End = 1795001.01
+ Point 7: Valence at Window End = 7.117
+ Point 7: Arousal at Window End = 5.01
+
+ Point 7: Change in Valence = 0.02200000000000024
+ Point 7: Change in Arousal = 0.016000000000000014
+
+
+______________________________________
+______________Subject 1_____________
+______________________________________
+ Number Of points: 2
+ Mean Change in valence: 0.022499999999999964
+ Mean Change in arousal: 0.17399999999999993
+ Max Change in valence: 0.04499999999999993
+ Max Change in arousal: 0.3439999999999994
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 22.617143446914223
+ Point 1: Probe Time Window Start = 1735001.01
+ Point 1: Valence at Window Start = 9.408
+ Point 1: Arousal at Window Start = 6.966
+ Point 1: Probe Time Window End = 1745001.01
+ Point 1: Valence at Window End = 9.453
+ Point 1: Arousal at Window End = 7.31
+
+ Point 1: Change in Valence = 0.04499999999999993
+ Point 1: Change in Arousal = 0.3439999999999994
+
+
+ Point 2: Change point score = 12.280295769047727
+ Point 2: Probe Time Window Start = 1740001.01
+ Point 2: Valence at Window Start = 9.453
+ Point 2: Arousal at Window Start = 7.31
+ Point 2: Probe Time Window End = 1750001.01
+ Point 2: Valence at Window End = 9.453
+ Point 2: Arousal at Window End = 7.314
+
+ Point 2: Change in Valence = 0.0
+ Point 2: Change in Arousal = 0.004000000000000448
+
+
+______________________________________
+______________Subject 20_____________
+______________________________________
+ Number Of points: 7
+ Mean Change in valence: 0.3528571428571426
+ Mean Change in arousal: 0.6469999999999999
+ Max Change in valence: 0.815999999999999
+ Max Change in arousal: 1.4809999999999999
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.945901048215431
+ Point 1: Probe Time Window Start = 795376.01
+ Point 1: Valence at Window Start = 6.021
+ Point 1: Arousal at Window Start = 4.758
+ Point 1: Probe Time Window End = 805376.01
+ Point 1: Valence at Window End = 6.432
+ Point 1: Arousal at Window End = 5.215
+
+ Point 1: Change in Valence = 0.4110000000000005
+ Point 1: Change in Arousal = 0.45699999999999985
+
+
+ Point 2: Change point score = 6.794135720228948
+ Point 2: Probe Time Window Start = 830376.01
+ Point 2: Valence at Window Start = 6.171
+ Point 2: Arousal at Window Start = 5.188
+ Point 2: Probe Time Window End = 840376.01
+ Point 2: Valence at Window End = 6.56
+ Point 2: Arousal at Window End = 5.167
+
+ Point 2: Change in Valence = 0.38899999999999935
+ Point 2: Change in Arousal = 0.020999999999999908
+
+
+ Point 3: Change point score = 5.35512512427224
+ Point 3: Probe Time Window Start = 867376.01
+ Point 3: Valence at Window Start = 6.528
+ Point 3: Arousal at Window Start = 5.191
+ Point 3: Probe Time Window End = 877376.01
+ Point 3: Valence at Window End = 6.508
+ Point 3: Arousal at Window End = 5.638
+
+ Point 3: Change in Valence = 0.019999999999999574
+ Point 3: Change in Arousal = 0.44700000000000006
+
+
+ Point 4: Change point score = 5.479133075446572
+ Point 4: Probe Time Window Start = 868376.01
+ Point 4: Valence at Window Start = 6.528
+ Point 4: Arousal at Window Start = 5.231
+ Point 4: Probe Time Window End = 878376.01
+ Point 4: Valence at Window End = 6.508
+ Point 4: Arousal at Window End = 5.638
+
+ Point 4: Change in Valence = 0.019999999999999574
+ Point 4: Change in Arousal = 0.40700000000000003
+
+
+ Point 5: Change point score = 5.345344107644989
+ Point 5: Probe Time Window Start = 872376.01
+ Point 5: Valence at Window Start = 6.508
+ Point 5: Arousal at Window Start = 5.325
+ Point 5: Probe Time Window End = 882376.01
+ Point 5: Valence at Window End = 6.508
+ Point 5: Arousal at Window End = 5.685
+
+ Point 5: Change in Valence = 0.0
+ Point 5: Change in Arousal = 0.35999999999999943
+
+
+ Point 6: Change point score = 6.420192458134187
+ Point 6: Probe Time Window Start = 925376.01
+ Point 6: Valence at Window Start = 8.273
+ Point 6: Arousal at Window Start = 6.604
+ Point 6: Probe Time Window End = 935376.01
+ Point 6: Valence at Window End = 9.087
+ Point 6: Arousal at Window End = 5.123
+
+ Point 6: Change in Valence = 0.8140000000000001
+ Point 6: Change in Arousal = 1.4809999999999999
+
+
+ Point 7: Change point score = 5.519220480027453
+ Point 7: Probe Time Window Start = 926376.01
+ Point 7: Valence at Window Start = 8.265
+ Point 7: Arousal at Window Start = 6.532
+ Point 7: Probe Time Window End = 936376.01
+ Point 7: Valence at Window End = 9.081
+ Point 7: Arousal at Window End = 5.176
+
+ Point 7: Change in Valence = 0.815999999999999
+ Point 7: Change in Arousal = 1.3559999999999999
+
+
+______________________________________
+______________Subject 21_____________
+______________________________________
+ Number Of points: 3
+ Mean Change in valence: 0.005999999999999932
+ Mean Change in arousal: 0.08433333333333337
+ Max Change in valence: 0.017999999999999794
+ Max Change in arousal: 0.18299999999999983
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 4.22287550571124
+ Point 1: Probe Time Window Start = 1941751.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 1951751.01
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 4.938974269971839
+ Point 2: Probe Time Window Start = 2021751.01
+ Point 2: Valence at Window Start = 4.942
+ Point 2: Arousal at Window Start = 5.37
+ Point 2: Probe Time Window End = 2031751.01
+ Point 2: Valence at Window End = 4.924
+ Point 2: Arousal at Window End = 5.553
+
+ Point 2: Change in Valence = 0.017999999999999794
+ Point 2: Change in Arousal = 0.18299999999999983
+
+
+ Point 3: Change point score = 5.977165190443108
+ Point 3: Probe Time Window Start = 2034751.01
+ Point 3: Valence at Window Start = 4.922
+ Point 3: Arousal at Window Start = 5.574
+ Point 3: Probe Time Window End = 2044751.01
+ Point 3: Valence at Window End = 4.922
+ Point 3: Arousal at Window End = 5.644
+
+ Point 3: Change in Valence = 0.0
+ Point 3: Change in Arousal = 0.07000000000000028
+
+
+______________________________________
+______________Subject 22_____________
+______________________________________
+ Number Of points: 8
+ Mean Change in valence: 1.2101250000000001
+ Mean Change in arousal: 0.28225
+ Max Change in valence: 2.765
+ Max Change in arousal: 0.7939999999999996
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 6.685930447238572
+ Point 1: Probe Time Window Start = 228501.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 238501.01
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 8.09450243024509
+ Point 2: Probe Time Window Start = 271501.01
+ Point 2: Valence at Window Start = 5.0
+ Point 2: Arousal at Window Start = 5.0
+ Point 2: Probe Time Window End = 281501.01
+ Point 2: Valence at Window End = 6.641
+ Point 2: Arousal at Window End = 5.076
+
+ Point 2: Change in Valence = 1.641
+ Point 2: Change in Arousal = 0.07599999999999962
+
+
+ Point 3: Change point score = 6.28658698291986
+ Point 3: Probe Time Window Start = 272501.01
+ Point 3: Valence at Window Start = 5.0
+ Point 3: Arousal at Window Start = 5.0
+ Point 3: Probe Time Window End = 282501.01
+ Point 3: Valence at Window End = 6.641
+ Point 3: Arousal at Window End = 5.076
+
+ Point 3: Change in Valence = 1.641
+ Point 3: Change in Arousal = 0.07599999999999962
+
+
+ Point 4: Change point score = 7.070426470103048
+ Point 4: Probe Time Window Start = 289501.01
+ Point 4: Valence at Window Start = 6.914
+ Point 4: Arousal at Window Start = 5.636
+ Point 4: Probe Time Window End = 299501.01
+ Point 4: Valence at Window End = 6.988
+ Point 4: Arousal at Window End = 5.865
+
+ Point 4: Change in Valence = 0.07400000000000073
+ Point 4: Change in Arousal = 0.2290000000000001
+
+
+ Point 5: Change point score = 5.611651831473171
+ Point 5: Probe Time Window Start = 325501.01
+ Point 5: Valence at Window Start = 6.042
+ Point 5: Arousal at Window Start = 6.195
+ Point 5: Probe Time Window End = 335501.01
+ Point 5: Valence at Window End = 5.877
+ Point 5: Arousal at Window End = 6.989
+
+ Point 5: Change in Valence = 0.16500000000000004
+ Point 5: Change in Arousal = 0.7939999999999996
+
+
+ Point 6: Change point score = 5.600995652707185
+ Point 6: Probe Time Window Start = 362501.01
+ Point 6: Valence at Window Start = 3.313
+ Point 6: Arousal at Window Start = 6.866
+ Point 6: Probe Time Window End = 372501.01
+ Point 6: Valence at Window End = 3.943
+ Point 6: Arousal at Window End = 7.297
+
+ Point 6: Change in Valence = 0.6299999999999999
+ Point 6: Change in Arousal = 0.43100000000000005
+
+
+ Point 7: Change point score = 6.348521767363326
+ Point 7: Probe Time Window Start = 383501.01
+ Point 7: Valence at Window Start = 3.514
+ Point 7: Arousal at Window Start = 7.371
+ Point 7: Probe Time Window End = 393501.01
+ Point 7: Valence at Window End = 6.279
+ Point 7: Arousal at Window End = 7.047
+
+ Point 7: Change in Valence = 2.765
+ Point 7: Change in Arousal = 0.32400000000000073
+
+
+ Point 8: Change point score = 6.43265691293707
+ Point 8: Probe Time Window Start = 384501.01
+ Point 8: Valence at Window Start = 3.514
+ Point 8: Arousal at Window Start = 7.375
+ Point 8: Probe Time Window End = 394501.01
+ Point 8: Valence at Window End = 6.279
+ Point 8: Arousal at Window End = 7.047
+
+ Point 8: Change in Valence = 2.765
+ Point 8: Change in Arousal = 0.3280000000000003
+
+
+______________________________________
+______________Subject 23_____________
+______________________________________
+ Number Of points: 2
+ Mean Change in valence: 0.019000000000000128
+ Mean Change in arousal: 0.0
+ Max Change in valence: 0.03300000000000036
+ Max Change in arousal: 0.0
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 3.0031697660658674
+ Point 1: Probe Time Window Start = 2166501.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 2176501.01
+ Point 1: Valence at Window End = 5.005
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.004999999999999893
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 2.93197252879937
+ Point 2: Probe Time Window Start = 2167501.01
+ Point 2: Valence at Window Start = 5.0
+ Point 2: Arousal at Window Start = 5.0
+ Point 2: Probe Time Window End = 2177501.01
+ Point 2: Valence at Window End = 5.033
+ Point 2: Arousal at Window End = 5.0
+
+ Point 2: Change in Valence = 0.03300000000000036
+ Point 2: Change in Arousal = 0.0
+
+
+______________________________________
+______________Subject 24_____________
+______________________________________
+ Number Of points: 4
+ Mean Change in valence: 0.20274999999999976
+ Mean Change in arousal: 0.10775000000000001
+ Max Change in valence: 0.37299999999999933
+ Max Change in arousal: 0.13600000000000012
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 20.04991722040404
+ Point 1: Probe Time Window Start = 1127126.01
+ Point 1: Valence at Window Start = 7.322
+ Point 1: Arousal at Window Start = 4.776
+ Point 1: Probe Time Window End = 1137126.01
+ Point 1: Valence at Window End = 7.491
+ Point 1: Arousal at Window End = 4.909
+
+ Point 1: Change in Valence = 0.1689999999999996
+ Point 1: Change in Arousal = 0.133
+
+
+ Point 2: Change point score = 7.150131903388778
+ Point 2: Probe Time Window Start = 1129126.01
+ Point 2: Valence at Window Start = 7.118
+ Point 2: Arousal at Window Start = 4.776
+ Point 2: Probe Time Window End = 1139126.01
+ Point 2: Valence at Window End = 7.491
+ Point 2: Arousal at Window End = 4.909
+
+ Point 2: Change in Valence = 0.37299999999999933
+ Point 2: Change in Arousal = 0.133
+
+
+ Point 3: Change point score = 7.668052107227604
+ Point 3: Probe Time Window Start = 1131126.01
+ Point 3: Valence at Window Start = 7.223
+ Point 3: Arousal at Window Start = 4.88
+ Point 3: Probe Time Window End = 1141126.01
+ Point 3: Valence at Window End = 7.491
+ Point 3: Arousal at Window End = 4.909
+
+ Point 3: Change in Valence = 0.2679999999999998
+ Point 3: Change in Arousal = 0.028999999999999915
+
+
+ Point 4: Change point score = 7.046131498726077
+ Point 4: Probe Time Window Start = 1166126.01
+ Point 4: Valence at Window Start = 7.446
+ Point 4: Arousal at Window Start = 5.021
+ Point 4: Probe Time Window End = 1176126.01
+ Point 4: Valence at Window End = 7.447
+ Point 4: Arousal at Window End = 4.885
+
+ Point 4: Change in Valence = 0.001000000000000334
+ Point 4: Change in Arousal = 0.13600000000000012
+
+
+______________________________________
+______________Subject 25_____________
+______________________________________
+ Number Of points: 3
+ Mean Change in valence: 0.27999999999999997
+ Mean Change in arousal: 0.5239999999999997
+ Max Change in valence: 0.7889999999999997
+ Max Change in arousal: 1.4639999999999995
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 6.580646186835626
+ Point 1: Probe Time Window Start = 1439876.01
+ Point 1: Valence at Window Start = 5.99
+ Point 1: Arousal at Window Start = 5.172
+ Point 1: Probe Time Window End = 1449876.01
+ Point 1: Valence at Window End = 5.944
+ Point 1: Arousal at Window End = 5.147
+
+ Point 1: Change in Valence = 0.04600000000000026
+ Point 1: Change in Arousal = 0.024999999999999467
+
+
+ Point 2: Change point score = 14.483883439564108
+ Point 2: Probe Time Window Start = 1473876.01
+ Point 2: Valence at Window Start = 7.417
+ Point 2: Arousal at Window Start = 5.931
+ Point 2: Probe Time Window End = 1483876.01
+ Point 2: Valence at Window End = 7.412
+ Point 2: Arousal at Window End = 6.014
+
+ Point 2: Change in Valence = 0.004999999999999893
+ Point 2: Change in Arousal = 0.08300000000000018
+
+
+ Point 3: Change point score = 11.744073484505934
+ Point 3: Probe Time Window Start = 1504876.01
+ Point 3: Valence at Window Start = 6.878
+ Point 3: Arousal at Window Start = 6.71
+ Point 3: Probe Time Window End = 1514876.01
+ Point 3: Valence at Window End = 7.667
+ Point 3: Arousal at Window End = 5.246
+
+ Point 3: Change in Valence = 0.7889999999999997
+ Point 3: Change in Arousal = 1.4639999999999995
+
+
+______________________________________
+______________Subject 26_____________
+______________________________________
+ Number Of points: 6
+ Mean Change in valence: 0.6631666666666666
+ Mean Change in arousal: 0.2525000000000004
+ Max Change in valence: 1.9800000000000004
+ Max Change in arousal: 1.1139999999999999
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 6.684133928892582
+ Point 1: Probe Time Window Start = 1108126.01
+ Point 1: Valence at Window Start = 6.484
+ Point 1: Arousal at Window Start = 4.977
+ Point 1: Probe Time Window End = 1118126.01
+ Point 1: Valence at Window End = 7.98
+ Point 1: Arousal at Window End = 4.856
+
+ Point 1: Change in Valence = 1.4960000000000004
+ Point 1: Change in Arousal = 0.12100000000000044
+
+
+ Point 2: Change point score = 7.273591338898088
+ Point 2: Probe Time Window Start = 1111126.01
+ Point 2: Valence at Window Start = 6.484
+ Point 2: Arousal at Window Start = 4.977
+ Point 2: Probe Time Window End = 1121126.01
+ Point 2: Valence at Window End = 8.464
+ Point 2: Arousal at Window End = 4.946
+
+ Point 2: Change in Valence = 1.9800000000000004
+ Point 2: Change in Arousal = 0.031000000000000583
+
+
+ Point 3: Change point score = 5.935316278879752
+ Point 3: Probe Time Window Start = 1134126.01
+ Point 3: Valence at Window Start = 8.643
+ Point 3: Arousal at Window Start = 5.062
+ Point 3: Probe Time Window End = 1144126.01
+ Point 3: Valence at Window End = 9.101
+ Point 3: Arousal at Window End = 6.176
+
+ Point 3: Change in Valence = 0.4580000000000002
+ Point 3: Change in Arousal = 1.1139999999999999
+
+
+ Point 4: Change point score = 6.888846555751093
+ Point 4: Probe Time Window Start = 1146126.01
+ Point 4: Valence at Window Start = 9.101
+ Point 4: Arousal at Window Start = 6.252
+ Point 4: Probe Time Window End = 1156126.01
+ Point 4: Valence at Window End = 9.126
+ Point 4: Arousal at Window End = 6.338
+
+ Point 4: Change in Valence = 0.02499999999999858
+ Point 4: Change in Arousal = 0.0860000000000003
+
+
+ Point 5: Change point score = 5.764057719310058
+ Point 5: Probe Time Window Start = 1191126.01
+ Point 5: Valence at Window Start = 9.241
+ Point 5: Arousal at Window Start = 6.831
+ Point 5: Probe Time Window End = 1201126.01
+ Point 5: Valence at Window End = 9.238
+ Point 5: Arousal at Window End = 6.762
+
+ Point 5: Change in Valence = 0.0030000000000001137
+ Point 5: Change in Arousal = 0.06900000000000084
+
+
+ Point 6: Change point score = 6.417908451660836
+ Point 6: Probe Time Window Start = 1193126.01
+ Point 6: Valence at Window Start = 9.241
+ Point 6: Arousal at Window Start = 6.831
+ Point 6: Probe Time Window End = 1203126.01
+ Point 6: Valence at Window End = 9.258
+ Point 6: Arousal at Window End = 6.737
+
+ Point 6: Change in Valence = 0.01699999999999946
+ Point 6: Change in Arousal = 0.0940000000000003
+
+
+______________________________________
+______________Subject 27_____________
+______________________________________
+ Number Of points: 2
+ Mean Change in valence: 0.18500000000000005
+ Mean Change in arousal: 0.11949999999999994
+ Max Change in valence: 0.3700000000000001
+ Max Change in arousal: 0.15399999999999991
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 6.893756972311978
+ Point 1: Probe Time Window Start = 1708001.01
+ Point 1: Valence at Window Start = 6.531
+ Point 1: Arousal at Window Start = 5.125
+ Point 1: Probe Time Window End = 1718001.01
+ Point 1: Valence at Window End = 6.531
+ Point 1: Arousal at Window End = 5.279
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.15399999999999991
+
+
+ Point 2: Change point score = 6.862790644818993
+ Point 2: Probe Time Window Start = 1757001.01
+ Point 2: Valence at Window Start = 6.999
+ Point 2: Arousal at Window Start = 5.584
+ Point 2: Probe Time Window End = 1767001.01
+ Point 2: Valence at Window End = 7.369
+ Point 2: Arousal at Window End = 5.669
+
+ Point 2: Change in Valence = 0.3700000000000001
+ Point 2: Change in Arousal = 0.08499999999999996
+
+
+______________________________________
+______________Subject 28_____________
+______________________________________
+ Number Of points: 4
+ Mean Change in valence: 0.9074999999999998
+ Mean Change in arousal: 0.72725
+ Max Change in valence: 2.0829999999999993
+ Max Change in arousal: 1.54
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 4.976349209025724
+ Point 1: Probe Time Window Start = 886001.01
+ Point 1: Valence at Window Start = 7.392
+ Point 1: Arousal at Window Start = 6.896
+ Point 1: Probe Time Window End = 896001.01
+ Point 1: Valence at Window End = 8.336
+ Point 1: Arousal at Window End = 7.379
+
+ Point 1: Change in Valence = 0.944
+ Point 1: Change in Arousal = 0.48299999999999965
+
+
+ Point 2: Change point score = 5.094068318045961
+ Point 2: Probe Time Window Start = 897001.01
+ Point 2: Valence at Window Start = 8.221
+ Point 2: Arousal at Window Start = 7.355
+ Point 2: Probe Time Window End = 907001.01
+ Point 2: Valence at Window End = 8.079
+ Point 2: Arousal at Window End = 7.257
+
+ Point 2: Change in Valence = 0.14199999999999946
+ Point 2: Change in Arousal = 0.09800000000000075
+
+
+ Point 3: Change point score = 8.689799850090953
+ Point 3: Probe Time Window Start = 912001.01
+ Point 3: Valence at Window Start = 7.668
+ Point 3: Arousal at Window Start = 7.06
+ Point 3: Probe Time Window End = 922001.01
+ Point 3: Valence at Window End = 7.207
+ Point 3: Arousal at Window End = 6.272
+
+ Point 3: Change in Valence = 0.4610000000000003
+ Point 3: Change in Arousal = 0.7879999999999994
+
+
+ Point 4: Change point score = 4.885925397565131
+ Point 4: Probe Time Window Start = 918001.01
+ Point 4: Valence at Window Start = 7.084
+ Point 4: Arousal at Window Start = 6.54
+ Point 4: Probe Time Window End = 928001.01
+ Point 4: Valence at Window End = 5.001
+ Point 4: Arousal at Window End = 5.0
+
+ Point 4: Change in Valence = 2.0829999999999993
+ Point 4: Change in Arousal = 1.54
+
+
+______________________________________
+______________Subject 29_____________
+______________________________________
+ Number Of points: 3
+ Mean Change in valence: 0.43533333333333335
+ Mean Change in arousal: 0.08566666666666656
+ Max Change in valence: 0.6710000000000003
+ Max Change in arousal: 0.18900000000000006
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.63332861632235
+ Point 1: Probe Time Window Start = 1959751.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.189
+ Point 1: Probe Time Window End = 1969751.01
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.18900000000000006
+
+
+ Point 2: Change point score = 5.689965324524716
+ Point 2: Probe Time Window Start = 2021751.01
+ Point 2: Valence at Window Start = 5.0
+ Point 2: Arousal at Window Start = 5.0
+ Point 2: Probe Time Window End = 2031751.01
+ Point 2: Valence at Window End = 5.635
+ Point 2: Arousal at Window End = 4.953
+
+ Point 2: Change in Valence = 0.6349999999999998
+ Point 2: Change in Arousal = 0.04699999999999971
+
+
+ Point 3: Change point score = 7.22294746811208
+ Point 3: Probe Time Window Start = 2022751.01
+ Point 3: Valence at Window Start = 5.0
+ Point 3: Arousal at Window Start = 5.0
+ Point 3: Probe Time Window End = 2032751.01
+ Point 3: Valence at Window End = 5.671
+ Point 3: Arousal at Window End = 4.979
+
+ Point 3: Change in Valence = 0.6710000000000003
+ Point 3: Change in Arousal = 0.020999999999999908
+
+
+______________________________________
+______________Subject 2_____________
+______________________________________
+ Number Of points: 5
+ Mean Change in valence: 0.33039999999999986
+ Mean Change in arousal: 0.08819999999999997
+ Max Change in valence: 0.9039999999999999
+ Max Change in arousal: 0.19399999999999995
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 3.3345147242938475
+ Point 1: Probe Time Window Start = 267501.01
+ Point 1: Valence at Window Start = 5.607
+ Point 1: Arousal at Window Start = 4.722
+ Point 1: Probe Time Window End = 277501.01
+ Point 1: Valence at Window End = 5.768
+ Point 1: Arousal at Window End = 4.892
+
+ Point 1: Change in Valence = 0.1609999999999996
+ Point 1: Change in Arousal = 0.16999999999999993
+
+
+ Point 2: Change point score = 4.381016892250132
+ Point 2: Probe Time Window Start = 286501.01
+ Point 2: Valence at Window Start = 5.831
+ Point 2: Arousal at Window Start = 4.891
+ Point 2: Probe Time Window End = 296501.01
+ Point 2: Valence at Window End = 6.418
+ Point 2: Arousal at Window End = 4.968
+
+ Point 2: Change in Valence = 0.5869999999999997
+ Point 2: Change in Arousal = 0.07699999999999996
+
+
+ Point 3: Change point score = 6.171537713173661
+ Point 3: Probe Time Window Start = 310501.01
+ Point 3: Valence at Window Start = 5.067
+ Point 3: Arousal at Window Start = 5.0
+ Point 3: Probe Time Window End = 320501.01
+ Point 3: Valence at Window End = 5.067
+ Point 3: Arousal at Window End = 5.0
+
+ Point 3: Change in Valence = 0.0
+ Point 3: Change in Arousal = 0.0
+
+
+ Point 4: Change point score = 3.3527670042344773
+ Point 4: Probe Time Window Start = 313501.01
+ Point 4: Valence at Window Start = 5.067
+ Point 4: Arousal at Window Start = 5.0
+ Point 4: Probe Time Window End = 323501.01
+ Point 4: Valence at Window End = 5.067
+ Point 4: Arousal at Window End = 5.0
+
+ Point 4: Change in Valence = 0.0
+ Point 4: Change in Arousal = 0.0
+
+
+ Point 5: Change point score = 4.19410571191194
+ Point 5: Probe Time Window Start = 381501.01
+ Point 5: Valence at Window Start = 4.109
+ Point 5: Arousal at Window Start = 5.688
+ Point 5: Probe Time Window End = 391501.01
+ Point 5: Valence at Window End = 5.013
+ Point 5: Arousal at Window End = 5.494
+
+ Point 5: Change in Valence = 0.9039999999999999
+ Point 5: Change in Arousal = 0.19399999999999995
+
+
+______________________________________
+______________Subject 30_____________
+______________________________________
+ Number Of points: 4
+ Mean Change in valence: 0.6395000000000004
+ Mean Change in arousal: 0.6232500000000003
+ Max Change in valence: 1.476
+ Max Change in arousal: 1.1130000000000004
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.211568348216426
+ Point 1: Probe Time Window Start = 795001.01
+ Point 1: Valence at Window Start = 6.552
+ Point 1: Arousal at Window Start = 5.055
+ Point 1: Probe Time Window End = 805001.01
+ Point 1: Valence at Window End = 7.097
+ Point 1: Arousal at Window End = 5.45
+
+ Point 1: Change in Valence = 0.5450000000000008
+ Point 1: Change in Arousal = 0.39500000000000046
+
+
+ Point 2: Change point score = 6.986010398414866
+ Point 2: Probe Time Window Start = 824001.01
+ Point 2: Valence at Window Start = 7.097
+ Point 2: Arousal at Window Start = 5.434
+ Point 2: Probe Time Window End = 834001.01
+ Point 2: Valence at Window End = 6.936
+ Point 2: Arousal at Window End = 5.062
+
+ Point 2: Change in Valence = 0.16100000000000048
+ Point 2: Change in Arousal = 0.3719999999999999
+
+
+ Point 3: Change point score = 6.8668248167427
+ Point 3: Probe Time Window Start = 847001.01
+ Point 3: Valence at Window Start = 5.0
+ Point 3: Arousal at Window Start = 5.0
+ Point 3: Probe Time Window End = 857001.01
+ Point 3: Valence at Window End = 6.476
+ Point 3: Arousal at Window End = 5.613
+
+ Point 3: Change in Valence = 1.476
+ Point 3: Change in Arousal = 0.6130000000000004
+
+
+ Point 4: Change point score = 6.437941445506038
+ Point 4: Probe Time Window Start = 862001.01
+ Point 4: Valence at Window Start = 6.577
+ Point 4: Arousal at Window Start = 6.111
+ Point 4: Probe Time Window End = 872001.01
+ Point 4: Valence at Window End = 6.201
+ Point 4: Arousal at Window End = 7.224
+
+ Point 4: Change in Valence = 0.37600000000000033
+ Point 4: Change in Arousal = 1.1130000000000004
+
+
+______________________________________
+______________Subject 3_____________
+______________________________________
+ Number Of points: 2
+ Mean Change in valence: 0.1064999999999996
+ Mean Change in arousal: 0.27700000000000014
+ Max Change in valence: 0.17799999999999994
+ Max Change in arousal: 0.49600000000000044
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.008239668249479
+ Point 1: Probe Time Window Start = 1415876.01
+ Point 1: Valence at Window Start = 6.083
+ Point 1: Arousal at Window Start = 5.685
+ Point 1: Probe Time Window End = 1425876.01
+ Point 1: Valence at Window End = 5.905
+ Point 1: Arousal at Window End = 6.181
+
+ Point 1: Change in Valence = 0.17799999999999994
+ Point 1: Change in Arousal = 0.49600000000000044
+
+
+ Point 2: Change point score = 5.235082148006194
+ Point 2: Probe Time Window Start = 1439876.01
+ Point 2: Valence at Window Start = 5.967
+ Point 2: Arousal at Window Start = 6.259
+ Point 2: Probe Time Window End = 1449876.01
+ Point 2: Valence at Window End = 5.932
+ Point 2: Arousal at Window End = 6.317
+
+ Point 2: Change in Valence = 0.034999999999999254
+ Point 2: Change in Arousal = 0.05799999999999983
+
+
+______________________________________
+______________Subject 4_____________
+______________________________________
+ Number Of points: 8
+ Mean Change in valence: 0.13174999999999992
+ Mean Change in arousal: 0.28000000000000014
+ Max Change in valence: 0.2950000000000008
+ Max Change in arousal: 0.968
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 10.321412952514835
+ Point 1: Probe Time Window Start = 511626.01
+ Point 1: Valence at Window Start = 7.134
+ Point 1: Arousal at Window Start = 5.596
+ Point 1: Probe Time Window End = 521626.01
+ Point 1: Valence at Window End = 7.309
+ Point 1: Arousal at Window End = 6.564
+
+ Point 1: Change in Valence = 0.17499999999999982
+ Point 1: Change in Arousal = 0.968
+
+
+ Point 2: Change point score = 19.479834123137294
+ Point 2: Probe Time Window Start = 515626.01
+ Point 2: Valence at Window Start = 7.522
+ Point 2: Arousal at Window Start = 6.18
+ Point 2: Probe Time Window End = 525626.01
+ Point 2: Valence at Window End = 7.267
+ Point 2: Arousal at Window End = 6.662
+
+ Point 2: Change in Valence = 0.2549999999999999
+ Point 2: Change in Arousal = 0.4820000000000002
+
+
+ Point 3: Change point score = 10.965627552211425
+ Point 3: Probe Time Window Start = 561626.01
+ Point 3: Valence at Window Start = 6.815
+ Point 3: Arousal at Window Start = 7.056
+ Point 3: Probe Time Window End = 571626.01
+ Point 3: Valence at Window End = 6.722
+ Point 3: Arousal at Window End = 6.686
+
+ Point 3: Change in Valence = 0.09299999999999997
+ Point 3: Change in Arousal = 0.3700000000000001
+
+
+ Point 4: Change point score = 7.989682212792568
+ Point 4: Probe Time Window Start = 563626.01
+ Point 4: Valence at Window Start = 6.753
+ Point 4: Arousal at Window Start = 6.784
+ Point 4: Probe Time Window End = 573626.01
+ Point 4: Valence at Window End = 6.722
+ Point 4: Arousal at Window End = 6.677
+
+ Point 4: Change in Valence = 0.030999999999999694
+ Point 4: Change in Arousal = 0.1070000000000002
+
+
+ Point 5: Change point score = 10.74419043528446
+ Point 5: Probe Time Window Start = 569626.01
+ Point 5: Valence at Window Start = 6.722
+ Point 5: Arousal at Window Start = 6.701
+ Point 5: Probe Time Window End = 579626.01
+ Point 5: Valence at Window End = 6.427
+ Point 5: Arousal at Window End = 6.564
+
+ Point 5: Change in Valence = 0.2950000000000008
+ Point 5: Change in Arousal = 0.13699999999999957
+
+
+ Point 6: Change point score = 8.423158356616147
+ Point 6: Probe Time Window Start = 591626.01
+ Point 6: Valence at Window Start = 6.286
+ Point 6: Arousal at Window Start = 6.48
+ Point 6: Probe Time Window End = 601626.01
+ Point 6: Valence at Window End = 6.286
+ Point 6: Arousal at Window End = 6.459
+
+ Point 6: Change in Valence = 0.0
+ Point 6: Change in Arousal = 0.021000000000000796
+
+
+ Point 7: Change point score = 10.60520694919312
+ Point 7: Probe Time Window Start = 592626.01
+ Point 7: Valence at Window Start = 6.286
+ Point 7: Arousal at Window Start = 6.474
+ Point 7: Probe Time Window End = 602626.01
+ Point 7: Valence at Window End = 6.206
+ Point 7: Arousal at Window End = 6.399
+
+ Point 7: Change in Valence = 0.07999999999999918
+ Point 7: Change in Arousal = 0.07500000000000018
+
+
+ Point 8: Change point score = 10.703500152009994
+ Point 8: Probe Time Window Start = 593626.01
+ Point 8: Valence at Window Start = 6.286
+ Point 8: Arousal at Window Start = 6.471
+ Point 8: Probe Time Window End = 603626.01
+ Point 8: Valence at Window End = 6.161
+ Point 8: Arousal at Window End = 6.391
+
+ Point 8: Change in Valence = 0.125
+ Point 8: Change in Arousal = 0.08000000000000007
+
+
+______________________________________
+______________Subject 5_____________
+______________________________________
+ Number Of points: 8
+ Mean Change in valence: 0.4049999999999999
+ Mean Change in arousal: 0.3271250000000001
+ Max Change in valence: 0.6459999999999999
+ Max Change in arousal: 0.8610000000000007
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 4.428087231799851
+ Point 1: Probe Time Window Start = 1656626
+ Point 1: Valence at Window Start = 5.956
+ Point 1: Arousal at Window Start = 4.668
+ Point 1: Probe Time Window End = 1666626
+ Point 1: Valence at Window End = 6.602
+ Point 1: Arousal at Window End = 4.668
+
+ Point 1: Change in Valence = 0.6459999999999999
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 4.301389164693183
+ Point 2: Probe Time Window Start = 1669626
+ Point 2: Valence at Window Start = 6.602
+ Point 2: Arousal at Window Start = 4.668
+ Point 2: Probe Time Window End = 1679626
+ Point 2: Valence at Window End = 6.984
+ Point 2: Arousal at Window End = 4.694
+
+ Point 2: Change in Valence = 0.3819999999999997
+ Point 2: Change in Arousal = 0.0259999999999998
+
+
+ Point 3: Change point score = 6.149572386278588
+ Point 3: Probe Time Window Start = 1678626
+ Point 3: Valence at Window Start = 6.984
+ Point 3: Arousal at Window Start = 4.694
+ Point 3: Probe Time Window End = 1688626
+ Point 3: Valence at Window End = 6.984
+ Point 3: Arousal at Window End = 4.707
+
+ Point 3: Change in Valence = 0.0
+ Point 3: Change in Arousal = 0.0129999999999999
+
+
+ Point 4: Change point score = 5.030469384168209
+ Point 4: Probe Time Window Start = 1686626
+ Point 4: Valence at Window Start = 6.984
+ Point 4: Arousal at Window Start = 4.707
+ Point 4: Probe Time Window End = 1696626
+ Point 4: Valence at Window End = 7.57
+ Point 4: Arousal at Window End = 5.219
+
+ Point 4: Change in Valence = 0.5860000000000003
+ Point 4: Change in Arousal = 0.5120000000000005
+
+
+ Point 5: Change point score = 4.339932800593248
+ Point 5: Probe Time Window Start = 1687626
+ Point 5: Valence at Window Start = 6.984
+ Point 5: Arousal at Window Start = 4.707
+ Point 5: Probe Time Window End = 1697626
+ Point 5: Valence at Window End = 7.504
+ Point 5: Arousal at Window End = 5.185
+
+ Point 5: Change in Valence = 0.5199999999999996
+ Point 5: Change in Arousal = 0.47799999999999976
+
+
+ Point 6: Change point score = 4.957821646889035
+ Point 6: Probe Time Window Start = 1711626
+ Point 6: Valence at Window Start = 7.418
+ Point 6: Arousal at Window Start = 5.174
+ Point 6: Probe Time Window End = 1721626
+ Point 6: Valence at Window End = 7.953
+ Point 6: Arousal at Window End = 5.743
+
+ Point 6: Change in Valence = 0.5350000000000001
+ Point 6: Change in Arousal = 0.569
+
+
+ Point 7: Change point score = 5.40645772762092
+ Point 7: Probe Time Window Start = 1759626
+ Point 7: Valence at Window Start = 8.626
+ Point 7: Arousal at Window Start = 6.225
+ Point 7: Probe Time Window End = 1769626
+ Point 7: Valence at Window End = 8.956
+ Point 7: Arousal at Window End = 6.383
+
+ Point 7: Change in Valence = 0.33000000000000007
+ Point 7: Change in Arousal = 0.15800000000000036
+
+
+ Point 8: Change point score = 4.880609480291126
+ Point 8: Probe Time Window Start = 1772626
+ Point 8: Valence at Window Start = 8.634
+ Point 8: Arousal at Window Start = 5.972
+ Point 8: Probe Time Window End = 1782626
+ Point 8: Valence at Window End = 8.393
+ Point 8: Arousal at Window End = 5.111
+
+ Point 8: Change in Valence = 0.24099999999999966
+ Point 8: Change in Arousal = 0.8610000000000007
+
+
+______________________________________
+______________Subject 6_____________
+______________________________________
+ Number Of points: 2
+ Mean Change in valence: 0.016999999999999904
+ Mean Change in arousal: 0.034499999999999975
+ Max Change in valence: 0.03399999999999981
+ Max Change in arousal: 0.06899999999999995
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.538184396876435
+ Point 1: Probe Time Window Start = 1061126.01
+ Point 1: Valence at Window Start = 5.587
+ Point 1: Arousal at Window Start = 4.935
+ Point 1: Probe Time Window End = 1071126.01
+ Point 1: Valence at Window End = 5.587
+ Point 1: Arousal at Window End = 4.935
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 10.976889829615525
+ Point 2: Probe Time Window Start = 1192126.01
+ Point 2: Valence at Window Start = 7.391
+ Point 2: Arousal at Window Start = 5.139
+ Point 2: Probe Time Window End = 1202126.01
+ Point 2: Valence at Window End = 7.425
+ Point 2: Arousal at Window End = 5.07
+
+ Point 2: Change in Valence = 0.03399999999999981
+ Point 2: Change in Arousal = 0.06899999999999995
+
+
+______________________________________
+______________Subject 7_____________
+______________________________________
+ Number Of points: 3
+ Mean Change in valence: 0.2560000000000002
+ Mean Change in arousal: 0.1263333333333332
+ Max Change in valence: 0.5210000000000008
+ Max Change in arousal: 0.37899999999999956
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 5.025207310795588
+ Point 1: Probe Time Window Start = 1635001.01
+ Point 1: Valence at Window Start = 5.0
+ Point 1: Arousal at Window Start = 5.0
+ Point 1: Probe Time Window End = 1645001.01
+ Point 1: Valence at Window End = 5.0
+ Point 1: Arousal at Window End = 5.0
+
+ Point 1: Change in Valence = 0.0
+ Point 1: Change in Arousal = 0.0
+
+
+ Point 2: Change point score = 3.619452111336276
+ Point 2: Probe Time Window Start = 1669001.01
+ Point 2: Valence at Window Start = 5.247
+ Point 2: Arousal at Window Start = 5.0
+ Point 2: Probe Time Window End = 1679001.01
+ Point 2: Valence at Window End = 5.0
+ Point 2: Arousal at Window End = 5.0
+
+ Point 2: Change in Valence = 0.2469999999999999
+ Point 2: Change in Arousal = 0.0
+
+
+ Point 3: Change point score = 4.882153971473327
+ Point 3: Probe Time Window Start = 1772001.01
+ Point 3: Valence at Window Start = 6.201
+ Point 3: Arousal at Window Start = 5.605
+ Point 3: Probe Time Window End = 1782001.01
+ Point 3: Valence at Window End = 6.722
+ Point 3: Arousal at Window End = 5.984
+
+ Point 3: Change in Valence = 0.5210000000000008
+ Point 3: Change in Arousal = 0.37899999999999956
+
+
+______________________________________
+______________Subject 8_____________
+______________________________________
+ Number Of points: 4
+ Mean Change in valence: 0.81325
+ Mean Change in arousal: 0.20375000000000032
+ Max Change in valence: 2.9339999999999993
+ Max Change in arousal: 0.3330000000000002
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.650351793090979
+ Point 1: Probe Time Window Start = 1684001.01
+ Point 1: Valence at Window Start = 6.029
+ Point 1: Arousal at Window Start = 4.25
+ Point 1: Probe Time Window End = 1694001.01
+ Point 1: Valence at Window End = 8.963
+ Point 1: Arousal at Window End = 4.583
+
+ Point 1: Change in Valence = 2.9339999999999993
+ Point 1: Change in Arousal = 0.3330000000000002
+
+
+ Point 2: Change point score = 14.59062622987012
+ Point 2: Probe Time Window Start = 1707001.01
+ Point 2: Valence at Window Start = 8.83
+ Point 2: Arousal at Window Start = 4.81
+ Point 2: Probe Time Window End = 1717001.01
+ Point 2: Valence at Window End = 9.114
+ Point 2: Arousal at Window End = 5.099
+
+ Point 2: Change in Valence = 0.2840000000000007
+ Point 2: Change in Arousal = 0.2890000000000006
+
+
+ Point 3: Change point score = 7.745755799083922
+ Point 3: Probe Time Window Start = 1760001.01
+ Point 3: Valence at Window Start = 9.427
+ Point 3: Arousal at Window Start = 5.547
+ Point 3: Probe Time Window End = 1770001.01
+ Point 3: Valence at Window End = 9.427
+ Point 3: Arousal at Window End = 5.544
+
+ Point 3: Change in Valence = 0.0
+ Point 3: Change in Arousal = 0.0030000000000001137
+
+
+ Point 4: Change point score = 7.520614553479293
+ Point 4: Probe Time Window Start = 1785001.01
+ Point 4: Valence at Window Start = 9.16
+ Point 4: Arousal at Window Start = 5.854
+ Point 4: Probe Time Window End = 1795001.01
+ Point 4: Valence at Window End = 9.195
+ Point 4: Arousal at Window End = 5.664
+
+ Point 4: Change in Valence = 0.03500000000000014
+ Point 4: Change in Arousal = 0.1900000000000004
+
+
+______________________________________
+______________Subject 9_____________
+______________________________________
+ Number Of points: 2
+ Mean Change in valence: 0.8799999999999999
+ Mean Change in arousal: 0.7284999999999999
+ Max Change in valence: 1.4059999999999997
+ Max Change in arousal: 1.113
+
+ Points to probe: 
+ 
+ Point 1: Change point score = 7.335871083894865
+ Point 1: Probe Time Window Start = 328501.01
+ Point 1: Valence at Window Start = 6.176
+ Point 1: Arousal at Window Start = 3.399
+ Point 1: Probe Time Window End = 338501.01
+ Point 1: Valence at Window End = 6.53
+ Point 1: Arousal at Window End = 3.055
+
+ Point 1: Change in Valence = 0.3540000000000001
+ Point 1: Change in Arousal = 0.34399999999999986
+
+
+ Point 2: Change point score = 7.132750336347717
+ Point 2: Probe Time Window Start = 387501.01
+ Point 2: Valence at Window Start = 7.468
+ Point 2: Arousal at Window Start = 3.35
+ Point 2: Probe Time Window End = 397501.01
+ Point 2: Valence at Window End = 6.062
+ Point 2: Arousal at Window End = 4.463
+
+ Point 2: Change in Valence = 1.4059999999999997
+ Point 2: Change in Arousal = 1.113
+
+
+______________________________________

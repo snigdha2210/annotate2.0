@@ -1,0 +1,60 @@
+sub_1
+Actual Changes Recorded: 55.714285714285715
+sub_2
+Actual Changes Recorded: 84.12698412698413
+sub_3
+Actual Changes Recorded: 82.6086956521739
+sub_4
+Actual Changes Recorded: 56.45161290322581
+sub_5
+Actual Changes Recorded: 55.76923076923077
+sub_6
+Actual Changes Recorded: 40.90909090909091
+sub_7
+Actual Changes Recorded: 91.83673469387755
+sub_8
+Actual Changes Recorded: 46.774193548387096
+sub_9
+Actual Changes Recorded: 98.30508474576271
+sub_10
+Actual Changes Recorded: 62.88659793814433
+sub_11
+Actual Changes Recorded: 84.90566037735849
+sub_12
+Actual Changes Recorded: 67.3913043478261
+sub_13
+Actual Changes Recorded: 77.46478873239437
+sub_14
+Actual Changes Recorded: 63.41463414634146
+sub_15
+Actual Changes Recorded: 100.0
+sub_16
+Actual Changes Recorded: 55.42168674698795
+sub_17
+Actual Changes Recorded: 83.6734693877551
+sub_18
+Actual Changes Recorded: 77.94117647058823
+sub_19
+Actual Changes Recorded: 34.95145631067961
+sub_20
+Actual Changes Recorded: 84.95575221238938
+sub_21
+Actual Changes Recorded: 85.9504132231405
+sub_22
+Actual Changes Recorded: 53.84615384615385
+sub_23
+Actual Changes Recorded: 46.808510638297875
+sub_24
+Actual Changes Recorded: 71.42857142857143
+sub_25
+Actual Changes Recorded: 74.39024390243902
+sub_26
+Actual Changes Recorded: 68.67469879518072
+sub_27
+Actual Changes Recorded: 93.82716049382717
+sub_28
+Actual Changes Recorded: 53.48837209302326
+sub_29
+Actual Changes Recorded: 83.33333333333333
+sub_30
+Actual Changes Recorded: 80.0

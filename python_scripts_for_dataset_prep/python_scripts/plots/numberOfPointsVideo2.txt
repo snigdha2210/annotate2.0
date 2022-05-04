@@ -1,0 +1,153 @@
+______________________________________
+____________Number Of Points______________
+______________________________________
+______________Subject 10_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 76
+______________Subject 11_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 147
+______________Subject 12_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 58
+______________Subject 13_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 114
+______________Subject 14_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 51
+______________Subject 15_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 152
+______________Subject 16_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 153
+______________Subject 17_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 172
+______________Subject 18_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 172
+______________Subject 19_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 127
+______________Subject 1_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 133
+______________Subject 20_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 90
+______________Subject 21_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 148
+______________Subject 22_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 97
+______________Subject 23_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 111
+______________Subject 24_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 92
+______________Subject 25_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 131
+______________Subject 26_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 145
+______________Subject 27_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 130
+______________Subject 28_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 146
+______________Subject 29_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 145
+______________Subject 2_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 85
+______________Subject 30_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 119
+______________Subject 3_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 97
+______________Subject 4_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 145
+______________Subject 5_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 117
+______________Subject 6_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 131
+______________Subject 7_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 63
+______________Subject 8_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 150
+______________Subject 9_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 1
+ Number Of points after thresholding: 106

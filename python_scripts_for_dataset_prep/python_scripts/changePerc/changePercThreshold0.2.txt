@@ -1,0 +1,48 @@
+______________________________________
+____________Video 1______________
+______________________________________
+Change in Arousal Percentage = 32.6530612244898
+Change in Valence Percentage = 55.10204081632653
+Change in Either Percentage = 67.34693877551021
+______________________________________
+____________Video 2______________
+______________________________________
+Change in Arousal Percentage = 44.73684210526316
+Change in Valence Percentage = 60.526315789473685
+Change in Either Percentage = 65.78947368421052
+______________________________________
+____________Video 3______________
+______________________________________
+Change in Arousal Percentage = 29.166666666666668
+Change in Valence Percentage = 29.166666666666668
+Change in Either Percentage = 45.833333333333336
+______________________________________
+____________Video 4______________
+______________________________________
+Change in Arousal Percentage = 32.6530612244898
+Change in Valence Percentage = 24.489795918367346
+Change in Either Percentage = 44.89795918367347
+______________________________________
+____________Video 5______________
+______________________________________
+Change in Arousal Percentage = 45.45454545454545
+Change in Valence Percentage = 45.45454545454545
+Change in Either Percentage = 57.57575757575758
+______________________________________
+____________Video 6______________
+______________________________________
+Change in Arousal Percentage = 42.5
+Change in Valence Percentage = 35.0
+Change in Either Percentage = 52.5
+______________________________________
+____________Video 7______________
+______________________________________
+Change in Arousal Percentage = 76.19047619047619
+Change in Valence Percentage = 66.66666666666667
+Change in Either Percentage = 83.33333333333333
+______________________________________
+____________Video 8______________
+______________________________________
+Change in Arousal Percentage = 63.888888888888886
+Change in Valence Percentage = 58.333333333333336
+Change in Either Percentage = 75.0

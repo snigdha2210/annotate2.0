@@ -1,0 +1,60 @@
+sub_1
+Actual Changes Recorded: 100.0
+sub_2
+Actual Changes Recorded: 100.0
+sub_3
+Actual Changes Recorded: 100.0
+sub_4
+Actual Changes Recorded: 75.0
+sub_5
+Actual Changes Recorded: 100.0
+sub_6
+Actual Changes Recorded: 80.0
+sub_7
+Actual Changes Recorded: 100.0
+sub_8
+Actual Changes Recorded: 100.0
+sub_9
+Actual Changes Recorded: 87.5
+sub_10
+Actual Changes Recorded: 100.0
+sub_11
+Actual Changes Recorded: 100.0
+sub_12
+Actual Changes Recorded: 92.3076923076923
+sub_13
+Actual Changes Recorded: 66.66666666666667
+sub_14
+Actual Changes Recorded: 75.0
+sub_15
+Actual Changes Recorded: 100.0
+sub_16
+Actual Changes Recorded: 90.0
+sub_17
+Actual Changes Recorded: 100.0
+sub_18
+Actual Changes Recorded: 42.857142857142854
+sub_19
+Actual Changes Recorded: 81.25
+sub_20
+Actual Changes Recorded: 100.0
+sub_21
+Actual Changes Recorded: 100.0
+sub_22
+Actual Changes Recorded: 100.0
+sub_23
+Actual Changes Recorded: 85.71428571428571
+sub_24
+Actual Changes Recorded: 60.0
+sub_25
+Actual Changes Recorded: 92.3076923076923
+sub_26
+Actual Changes Recorded: 83.33333333333333
+sub_27
+Actual Changes Recorded: 80.0
+sub_28
+Actual Changes Recorded: 83.33333333333333
+sub_29
+Actual Changes Recorded: 100.0
+sub_30
+Actual Changes Recorded: 66.66666666666667

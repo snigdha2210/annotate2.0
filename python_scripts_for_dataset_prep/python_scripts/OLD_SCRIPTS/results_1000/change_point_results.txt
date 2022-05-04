@@ -1,0 +1,133 @@
+sub_1
+Valence -- Actual Mean: 6.4311193882585105 Changed Mean: 6.184679278230502
+Arousal -- Actual Mean: 4.895768623581647 Changed Mean: 4.8422101280558785
+Valence -- Actual Min: 4.9510000000000005 Changed Min: 4.9510000000000005
+Valence -- Actual Max: 7.435 Changed Max: 7.029
+Arousal -- Actual Min: 4.039 Changed Min: 4.039
+Arousal -- Actual Max: 5.4879999999999995 Changed Max: 5.473
+sub_2
+Valence -- Actual Mean: 5.121043328409651 Changed Mean: 5.0667825
+Arousal -- Actual Mean: 4.338831610044313 Changed Mean: 4.606694166666666
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 5.159 Changed Max: 5.159
+Arousal -- Actual Min: 4.079 Changed Min: 4.145
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_3
+Valence -- Actual Mean: 7.088582634435126 Changed Mean: 7.098224957555179
+Arousal -- Actual Mean: 4.578204242723237 Changed Mean: 4.578377758913413
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.686 Changed Max: 7.686
+Arousal -- Actual Min: 4.276 Changed Min: 4.276
+Arousal -- Actual Max: 5.045 Changed Max: 5.045
+sub_4
+Valence -- Actual Mean: 5.249319033530572 Changed Mean: 5.248584568216658
+Arousal -- Actual Mean: 2.444313609467456 Changed Mean: 2.740636688809402
+Valence -- Actual Min: 4.93 Changed Min: 4.93
+Valence -- Actual Max: 6.108 Changed Max: 6.108
+Arousal -- Actual Min: 1.416 Changed Min: 1.416
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_5
+Valence -- Actual Mean: 5.828155555555555 Changed Mean: 5.860173728813559
+Arousal -- Actual Mean: 3.8791293827160493 Changed Mean: 3.7493389830508472
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 6.494 Changed Max: 6.494
+Arousal -- Actual Min: 1.291 Changed Min: 1.291
+Arousal -- Actual Max: 5.806 Changed Max: 5.806
+sub_6
+Valence -- Actual Mean: 8.148299651567946 Changed Mean: 8.325531486146097
+Arousal -- Actual Mean: 4.5149243404678945 Changed Mean: 4.481938287153652
+Valence -- Actual Min: 5.0 Changed Min: 7.8870000000000005
+Valence -- Actual Max: 8.662 Changed Max: 8.662
+Arousal -- Actual Min: 3.9360000000000004 Changed Min: 4.0169999999999995
+Arousal -- Actual Max: 5.261 Changed Max: 5.261
+sub_7
+Valence -- Actual Mean: 5.358897486446526 Changed Mean: 5.0458750000000006
+Arousal -- Actual Mean: 4.76861360275998 Changed Mean: 4.988362499999999
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 5.98 Changed Max: 5.1610000000000005
+Arousal -- Actual Min: 4.459 Changed Min: 4.869
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_8
+Valence -- Actual Mean: 6.320892345679012 Changed Mean: 6.397401612903226
+Arousal -- Actual Mean: 2.8866607407407407 Changed Mean: 2.7978927419354838
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.523 Changed Max: 7.108
+Arousal -- Actual Min: 1.564 Changed Min: 1.564
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_9
+Valence -- Actual Mean: 5.44885396039604 Changed Mean: 5.233100628930818
+Arousal -- Actual Mean: 4.381791089108911 Changed Mean: 4.633079245283018
+Valence -- Actual Min: 4.998 Changed Min: 4.998
+Valence -- Actual Max: 6.025 Changed Max: 5.936
+Arousal -- Actual Min: 3.823 Changed Min: 3.932
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_10
+Valence -- Actual Mean: 6.094226936359151 Changed Mean: 6.114464653902798
+Arousal -- Actual Mean: 5.41023926985693 Changed Mean: 5.271538291605302
+Valence -- Actual Min: 4.9639999999999995 Changed Min: 5.0
+Valence -- Actual Max: 7.414 Changed Max: 7.414
+Arousal -- Actual Min: 4.803999999999999 Changed Min: 4.803999999999999
+Arousal -- Actual Max: 6.433 Changed Max: 6.32
+sub_11
+Valence -- Actual Mean: 5.0541225296442684 Changed Mean: 5.059312318137731
+Arousal -- Actual Mean: 3.2156778656126477 Changed Mean: 3.5056129970902035
+Valence -- Actual Min: 4.872 Changed Min: 4.872
+Valence -- Actual Max: 5.249 Changed Max: 5.249
+Arousal -- Actual Min: 2.603 Changed Min: 2.603
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_12
+Valence -- Actual Mean: 7.703336291913215 Changed Mean: 7.623710294117647
+Arousal -- Actual Mean: 6.371937869822486 Changed Mean: 6.307964215686274
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 8.777000000000001 Changed Max: 8.777000000000001
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 7.005 Changed Max: 7.005
+sub_13
+Valence -- Actual Mean: 7.220338104639684 Changed Mean: 7.213016046213094
+Arousal -- Actual Mean: 4.81431391905232 Changed Mean: 4.753802310654686
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.629 Changed Max: 7.629
+Arousal -- Actual Min: 3.1839999999999997 Changed Min: 3.1839999999999997
+Arousal -- Actual Max: 5.852 Changed Max: 5.852
+sub_14
+Valence -- Actual Mean: 5.0 Changed Mean: 5.0
+Arousal -- Actual Mean: 5.0 Changed Mean: 5.0
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 5.0 Changed Max: 5.0
+Arousal -- Actual Min: 5.0 Changed Min: 5.0
+Arousal -- Actual Max: 5.0 Changed Max: 5.0
+sub_15
+Valence -- Actual Mean: 5.4209856860809476 Changed Mean: 5.611509615384617
+Arousal -- Actual Mean: 5.207422507403751 Changed Mean: 5.161692307692308
+Valence -- Actual Min: 4.559 Changed Min: 4.994
+Valence -- Actual Max: 6.257999999999999 Changed Max: 6.218
+Arousal -- Actual Min: 4.199 Changed Min: 4.292
+Arousal -- Actual Max: 5.843999999999999 Changed Max: 5.632000000000001
+sub_16
+Valence -- Actual Mean: 7.2022190429205715 Changed Mean: 7.121095824175824
+Arousal -- Actual Mean: 4.979530340404539 Changed Mean: 4.970087472527472
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 7.78 Changed Max: 7.78
+Arousal -- Actual Min: 4.835 Changed Min: 4.835
+Arousal -- Actual Max: 5.151 Changed Max: 5.151
+sub_17
+Valence -- Actual Mean: 6.336074531095757 Changed Mean: 6.305503718728871
+Arousal -- Actual Mean: 4.818100691016783 Changed Mean: 4.856173089925625
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 6.843999999999999 Changed Max: 6.67
+Arousal -- Actual Min: 4.205 Changed Min: 4.262
+Arousal -- Actual Max: 5.111000000000001 Changed Max: 5.111000000000001
+sub_18
+Valence -- Actual Mean: 5.6359151873767255 Changed Mean: 5.578518452380952
+Arousal -- Actual Mean: 5.638686390532545 Changed Mean: 5.524520238095238
+Valence -- Actual Min: 5.0 Changed Min: 5.0
+Valence -- Actual Max: 6.099 Changed Max: 6.099
+Arousal -- Actual Min: 4.618 Changed Min: 4.618
+Arousal -- Actual Max: 6.147 Changed Max: 5.915
+sub_19
+Valence -- Actual Mean: 6.899626048347313 Changed Mean: 7.044306698950769
+Arousal -- Actual Mean: 6.539246176615689 Changed Mean: 6.743640839386603
+Valence -- Actual Min: 5.0 Changed Min: 6.99
+Valence -- Actual Max: 7.22 Changed Max: 7.046
+Arousal -- Actual Min: 5.0 Changed Min: 6.0729999999999995
+Arousal -- Actual Max: 6.792999999999999 Changed Max: 6.792999999999999
