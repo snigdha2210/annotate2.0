@@ -1,0 +1,60 @@
+sub_1
+Actual Changes Recorded: 5.633802816901408
+sub_2
+Actual Changes Recorded: 4.761904761904762
+sub_3
+Actual Changes Recorded: 1.639344262295082
+sub_4
+Actual Changes Recorded: 1.9230769230769231
+sub_5
+Actual Changes Recorded: 6.382978723404255
+sub_6
+Actual Changes Recorded: 0.0
+sub_7
+Actual Changes Recorded: 7.407407407407407
+sub_8
+Actual Changes Recorded: 8.0
+sub_9
+Actual Changes Recorded: 0.0
+sub_10
+Actual Changes Recorded: 26.5625
+sub_11
+Actual Changes Recorded: 10.344827586206897
+sub_12
+Actual Changes Recorded: 0.0
+sub_13
+Actual Changes Recorded: 1.5384615384615385
+sub_14
+Actual Changes Recorded: 16.666666666666668
+sub_15
+Actual Changes Recorded: 46.0
+sub_16
+Actual Changes Recorded: 0.0
+sub_17
+Actual Changes Recorded: 6.756756756756757
+sub_18
+Actual Changes Recorded: 5.2631578947368425
+sub_19
+Actual Changes Recorded: 7.6923076923076925
+sub_20
+Actual Changes Recorded: 1.639344262295082
+sub_21
+Actual Changes Recorded: 41.25
+sub_22
+Actual Changes Recorded: 0.0
+sub_23
+Actual Changes Recorded: 1.7543859649122806
+sub_24
+Actual Changes Recorded: 0.0
+sub_25
+Actual Changes Recorded: 1.4285714285714286
+sub_26
+Actual Changes Recorded: 58.42696629213483
+sub_27
+Actual Changes Recorded: 6.666666666666667
+sub_28
+Actual Changes Recorded: 1.9607843137254901
+sub_29
+Actual Changes Recorded: 5.333333333333333
+sub_30
+Actual Changes Recorded: 7.142857142857143

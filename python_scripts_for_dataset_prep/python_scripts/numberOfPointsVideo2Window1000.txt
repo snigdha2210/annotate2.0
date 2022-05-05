@@ -1,0 +1,153 @@
+______________________________________
+____________Number Of Points______________
+______________________________________
+______________Subject 10_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 5
+______________Subject 11_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 6
+______________Subject 12_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 12
+______________Subject 13_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 30
+______________Subject 14_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 4
+______________Subject 15_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 36
+______________Subject 16_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 8
+______________Subject 17_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 19
+______________Subject 18_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 38
+______________Subject 19_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 45
+______________Subject 1_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 34
+______________Subject 20_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 13
+______________Subject 21_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 21
+______________Subject 22_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 18
+______________Subject 23_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 0
+______________Subject 24_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 17
+______________Subject 25_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 13
+______________Subject 26_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 18
+______________Subject 27_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 39
+______________Subject 28_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 11
+______________Subject 29_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 15
+______________Subject 2_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 3
+______________Subject 30_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 29
+______________Subject 3_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 21
+______________Subject 4_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 38
+______________Subject 5_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 12
+______________Subject 6_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 29
+______________Subject 7_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 4
+______________Subject 8_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 66
+______________Subject 9_____________
+______________________________________
+ Number Of points: 172
+ Threshold score: 3.5
+ Number Of points after thresholding: 40

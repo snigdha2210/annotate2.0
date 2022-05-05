@@ -1,0 +1,48 @@
+______________________________________
+____________Video 1______________
+______________________________________
+Change in Arousal Percentage = 18.367346938775512
+Change in Valence Percentage = 38.775510204081634
+Change in Either Percentage = 46.93877551020408
+______________________________________
+____________Video 2______________
+______________________________________
+Change in Arousal Percentage = 28.94736842105263
+Change in Valence Percentage = 57.89473684210526
+Change in Either Percentage = 60.526315789473685
+______________________________________
+____________Video 3______________
+______________________________________
+Change in Arousal Percentage = 16.0
+Change in Valence Percentage = 28.0
+Change in Either Percentage = 36.0
+______________________________________
+____________Video 4______________
+______________________________________
+Change in Arousal Percentage = 30.0
+Change in Valence Percentage = 22.0
+Change in Either Percentage = 44.0
+______________________________________
+____________Video 5______________
+______________________________________
+Change in Arousal Percentage = 33.333333333333336
+Change in Valence Percentage = 33.333333333333336
+Change in Either Percentage = 51.515151515151516
+______________________________________
+____________Video 6______________
+______________________________________
+Change in Arousal Percentage = 35.0
+Change in Valence Percentage = 22.5
+Change in Either Percentage = 42.5
+______________________________________
+____________Video 7______________
+______________________________________
+Change in Arousal Percentage = 58.53658536585366
+Change in Valence Percentage = 58.53658536585366
+Change in Either Percentage = 75.60975609756098
+______________________________________
+____________Video 8______________
+______________________________________
+Change in Arousal Percentage = 55.55555555555556
+Change in Valence Percentage = 52.77777777777778
+Change in Either Percentage = 69.44444444444444

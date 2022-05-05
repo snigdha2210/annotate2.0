@@ -30,20 +30,28 @@ Below is the whole step-by-step process for the same:
 > Since the system being build is heavily dependent on functionality, we have not taken much time to beautify the UI/UX.
 
 Relevant files/folders inside **src** folder:
+- **frontend/**
+  - **components/**
+    - **common/**: Contains files for react-player
+    - Annotate.js: Contains react-player component, the main component having everything
+    - App.css: CSS file for App.js
+    - AppRouter.js: Browser router component for navigation
+    - Header.js: High level component for the app
+    - UserIdForm.js: First apprearing component
+  - **videos/**
+    - **videoMP4s/**: Contains all videos (9)
+    - VideoData.json: Contains information regarding all the videos
+    - userIdVideoModes.json: Contains pre-defined random orders of videos for each userId (1-30)
+  - index.js: Starter file
+  - index.css: main css file
+- **machine_learning**
+  - **Datasets/**
+    - **CASE/** : Contains all files based on changepoint scores
+    - **Ruptures/**: Dataset needed for the ruptures detection
+  - all_models.ipynb: Jupyter Notebook containing *ALL* the models used for prediction
+  - models_for_ruptures.ipynb: Jupyter Notebook containing the models that were used to train on the ruptures Dataset
+- **python_scripts_for_dataset_prep** : Contains all the Misc python scripts for dataset preparation, extraction and graph generation. Usage of files evident from name and commented code.
 
-- **components/**
-  - **common/**: Contains files for react-player
-  - Annotate.js: Contains react-player component, the main component having everything
-  - App.css: CSS file for App.js
-  - AppRouter.js: Browser router component for navigation
-  - Header.js: High level component for the app
-  - UserIdForm.js: First apprearing component
-- **videos/**
-  - **videoMP4s/**: Contains all videos (9)
-  - VideoData.json: Contains information regarding all the videos
-  - userIdVideoModes.json: Contains pre-defined random orders of videos for each userId (1-30)
-- index.js: Starter file
-- index.css: main css file
 
 > The 9th video is missing from the **videoMP4s/** folder.
 > The videos will stop whenever 9th video comes in the list.

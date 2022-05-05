@@ -1,0 +1,3 @@
+Video,Start,End,ValenceStart,ValenceEnd,ArousalStart,ArousalEnd,gsrStart,gsrEnd,sktStart,sktEnd,bvpStart,bvpEnd,rspStart,rspEnd,emg_zygoStart,emg_zygoEnd,emg_coruStart,emg_coruEnd,emg_trapStart,emg_trapEnd
+6,1068497,1073497,6.381,7.014,4.809,5.097,7.747,7.637,22.304,22.301,37.02,36.497,31.23,32.566,6.96,10.82,6.426,6.385,8.397,8.274
+6,1108499,1113499,7.806,7.856,6.193,5.898,7.408,7.365,22.311,22.315,36.594,36.603,31.501,31.898,8.602,7.863,6.508,6.59,11.272,9.054
